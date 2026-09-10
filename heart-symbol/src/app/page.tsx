@@ -1,30 +1,22 @@
 'use client';
 
-import { useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { useLocale } from '@/hooks/useLocale';
-
-const LOCALE_KEY = 'heart-symbol-locale';
+import { useSession } from '@/hooks/useSession';
 
 export default function HomePage() {
   const router = useRouter();
   const { setLocale } = useLocale();
-
-  // Redirect immediately if language was already chosen.
-  useEffect(() => {
-    try {
-      const stored = localStorage.getItem(LOCALE_KEY);
-      if (stored === 'en' || stored === 'zh') {
-        router.replace('/topic');
-      }
-    } catch {
-      // localStorage unavailable — stay on home and let user pick.
-    }
-  }, [router]);
+  const { updateSession } = useSession();
 
   function selectLanguage(lang: 'en' | 'zh') {
     setLocale(lang);
+    updateSession({
+      locale: lang,
+      dateString: new Date().toISOString().slice(0, 10),
+      step: 'topic',
+    });
     router.push('/topic');
   }
 
