@@ -1,36 +1,238 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Heart Symbol
 
-## Getting Started
+Heart Symbol is a bilingual, reflective journaling app that helps a user pause, name what is weighing on them, and engage with a symbolic interpretation generated from their topic, emotion, and moment.
 
-First, run the development server:
+The experience is designed as a guided flow:
+
+1. Choose a language
+2. Select a life topic
+3. Write a concern
+4. Choose the emotion you feel most strongly
+5. Take a brief grounding ritual
+6. Draw a symbol
+7. Read the personalized reflection
+8. Save the reading to local history
+
+This project is built with Next.js 16 and React 19.
+
+## Features
+
+- Bilingual UI in English and Chinese
+- Guided session flow with persistent state
+- Topic-based reflection prompts
+- Emotional check-in and self-awareness flow
+- Deterministic symbol selection for the day
+- Reading engine that generates content based on topic + emotion + symbol
+- Local history saving in the browser
+- Crisis awareness banner for high-risk concern text
+- No backend required for the core experience
+
+## Tech stack
+
+- Next.js 16
+- React 19
+- TypeScript
+- Tailwind CSS v4
+- Vitest for tests
+
+## Quick start
+
+### 1. Install dependencies
+
+```bash
+npm install
+```
+
+### 2. Start the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 3. Production build
 
-## Learn More
+```bash
+npm run build
+npm run start
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Project structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```text
+heart-symbol/
+├── README.md
+├── package.json
+├── tsconfig.json
+├── next.config.ts
+├── vitest.config.mts
+├── public/
+│   └── symbols/
+├── src/
+│   ├── app/
+│   │   ├── page.tsx
+│   │   ├── topic/page.tsx
+│   │   ├── concern/page.tsx
+│   │   ├── emotion/page.tsx
+│   │   ├── ritual/page.tsx
+│   │   ├── draw/page.tsx
+│   │   ├── reading/page.tsx
+│   │   ├── history/page.tsx
+│   │   ├── history/[id]/page.tsx
+│   │   ├── layout.tsx
+│   │   ├── globals.css
+│   │   └── favicon.ico
+│   ├── context/
+│   │   └── LocaleContext.tsx
+│   ├── data/
+│   │   ├── symbols.ts
+│   │   ├── emotionalMirrors.ts
+│   │   ├── blindSpots.ts
+│   │   ├── closingLines.ts
+│   ├── hooks/
+│   │   ├── useLocale.ts
+│   │   ├── useSession.ts
+│   │   ├── useTranslation.ts
+│   │   ├── useHistory.ts
+│   ├── i18n/
+│   │   ├── en.ts
+│   │   ├── zh.ts
+│   │   ├── index.ts
+│   │   └── types.ts
+│   ├── lib/
+│   │   ├── session.ts
+│   │   ├── readingEngine.ts
+│   │   ├── symbolSelector.ts
+│   │   ├── concern.ts
+│   │   ├── crisisDetection.ts
+│   │   ├── storage.ts
+│   │   ├── hash.ts
+│   │   └── uuid.ts
+│   ├── types/
+│   │   ├── session.ts
+│   │   ├── locale.ts
+│   │   ├── reading.ts
+│   │   ├── symbol.ts
+│   └── app
+├── __tests__/
+│   └── lib/
+│       └── readingEngine.test.ts
+└── ...
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## App flow
 
-## Deploy on Vercel
+The app is structured around a multi-step reading session.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- `/` — language selection landing page
+- `/topic` — choose a reflection topic
+- `/concern` — enter the current concern
+- `/emotion` — choose the dominant emotion
+- `/ritual` — brief breathing / pause step
+- `/draw` — pick a symbol card
+- `/reading` — view the generated reflection
+- `/history` — saved readings list
+- `/history/[id]` — detail page for a saved reading
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## State and storage
+
+This project uses browser storage rather than a backend.
+
+- `localStorage` stores the selected locale
+- `sessionStorage` stores the active reading session
+- `localStorage` also stores saved reading history
+
+This means:
+
+- the app works without a server database
+- history is stored on the browser/device where the app is used
+- opening a new browser or a different browser profile will not share the same saved readings
+
+## Reading engine
+
+The core reflection is generated by `src/lib/readingEngine.ts`.
+
+It combines:
+
+- selected topic
+- selected emotion
+- selected symbol
+- user concern
+- current locale
+- optional crisis flag
+
+The reading contains sections such as:
+
+- Emotional Mirror
+- Symbol Meaning
+- Possible Blind Spot
+- Reflection Questions
+- One Action for Today
+- Closing Line
+
+## Localization
+
+The app supports English and Chinese through the translation layer:
+
+- `src/i18n/en.ts`
+- `src/i18n/zh.ts`
+- `src/i18n/types.ts`
+
+Locale selection is stored in `localStorage` and provided through the `LocaleContext`.
+
+## Scripts
+
+```bash
+npm run dev       # start development server
+npm run build     # build production bundle
+npm run start     # run production server
+npm run lint      # run ESLint
+npm run typecheck # TypeScript validation
+npm run test      # run Vitest in watch mode
+npm run test:ci   # run Vitest once
+```
+
+## Notes for contributors
+
+- Keep the routing flow consistent with the session model in `src/types/session.ts`.
+- Do not break deterministic symbol selection logic in `src/lib/symbolSelector.ts`.
+- Be careful when editing the reading content; it is designed to be deterministic and testable.
+- The crisis detection is intentionally lightweight and designed for awareness, not diagnosis.
+
+## Important disclaimer
+
+Heart Symbol is a reflection and journaling tool for personal use. It is not a substitute for medical, psychological, legal, or financial advice.
+
+If the user is in crisis or may be at risk, the app includes a crisis-awareness banner and encourages support resources.
+
+## License
+
+This project currently does not include a formal license file. Please confirm with the repository owner before redistributing or using it in a commercial setting.
+
+## Troubleshooting
+
+### 404 on `/topic`
+
+If a route returns 404, confirm the corresponding page exists under `src/app` and the app has been restarted.
+
+### App does not open in browser
+
+Check that dependencies are installed and that the server is running:
+
+```bash
+npm install
+npm run dev
+```
+
+### Local data disappears
+
+Saved readings are browser-local. Clearing site data or switching browsers will remove the stored history.
+
+## Contact / repository ownership
+
+This project is managed in the current repository and is intended for local use and experimentation unless otherwise specified by the maintainer.
