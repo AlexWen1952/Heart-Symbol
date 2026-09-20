@@ -1,0 +1,990 @@
+{
+  "symbolIds": [
+    "river",
+    "mirror",
+    "door",
+    "lantern",
+    "mist",
+    "seed",
+    "bridge",
+    "thread",
+    "moon",
+    "stone",
+    "tide",
+    "garden"
+  ],
+  "symbols": [
+    {
+      "id": "river",
+      "family": "water",
+      "themes": [
+        "flow",
+        "continuity",
+        "time",
+        "release",
+        "direction"
+      ],
+      "names": {
+        "en": "River",
+        "zh": "河流"
+      },
+      "shortMeaning": {
+        "en": "Things are moving, even when you cannot see where they lead.",
+        "zh": "事物在流动，即使你看不见它们通向何处。"
+      },
+      "lightMeaning": {
+        "en": "You are in motion. Trust the current you are already in.",
+        "zh": "你正在流动。信任你已经身处的那股洪流。"
+      },
+      "shadowMeaning": {
+        "en": "Movement without direction can become avoidance. Notice if you are flowing away from something rather than toward something.",
+        "zh": "没有方向的移动可能成为一种逃避。留意你是在流离某物，还是流向某物。"
+      },
+      "topicInterpretations": {
+        "love": {
+          "en": "This relationship is not static. Something has shifted or is shifting. Notice what you want to move toward — not just what you are moving away from.",
+          "zh": "这段关系并非静止不动。某些东西已经改变，或正在改变。留意你想靠近什么——而不仅仅是你在远离什么。"
+        },
+        "career": {
+          "en": "Your situation is in motion. This is not the time to force a destination. Observe where your energy is naturally flowing.",
+          "zh": "你的处境正在移动。这不是强行确定终点的时候。观察你的能量自然流向何方。"
+        },
+        "money": {
+          "en": "Financial situations are rarely fixed. What has changed recently? What small flow — in or out — can you manage today?",
+          "zh": "财务状况很少是固定不变的。最近有什么变化了？有什么微小的流动——无论进出——是你今天能够管理的？"
+        },
+        "family": {
+          "en": "Family systems move slowly but they do move. You do not have to fix everything. What one thing can you allow to flow more freely?",
+          "zh": "家庭系统移动得很慢，但它确实在移动。你不必修复一切。有什么一件事，是你可以让它更自由地流动的？"
+        },
+        "self": {
+          "en": "You are not the person you were six months ago. You do not have to hold the shape of who you used to be.",
+          "zh": "你已不再是六个月前的自己。你不必一直保持过去那个你的形状。"
+        },
+        "health": {
+          "en": "Your health is not a fixed state — energy, symptoms, and mood move and change. Notice which direction things are flowing, and where you might gently redirect the current rather than force it.",
+          "zh": "你的健康不是一个固定的状态——精力、症状和情绪都在流动变化。留意它们流向何方，以及你可以在哪里温和地调整方向，而不是强行改变。"
+        }
+      },
+      "reflectionQuestions": [
+        {
+          "en": "What are you moving away from — and is that the same as what you want to move toward?",
+          "zh": "你在远离什么——那与你想要靠近的，是同一件事吗？"
+        },
+        {
+          "en": "What would it feel like to stop trying to control the speed of this?",
+          "zh": "如果停止控制这件事的速度，会是什么感觉？"
+        },
+        {
+          "en": "Where in your life are you fighting the current?",
+          "zh": "你生命中的哪个地方，正在逆流而行？"
+        }
+      ],
+      "realisticActions": [
+        {
+          "en": "Write down one thing you have been resisting. Set a timer for ten minutes and free-write about it without editing yourself.",
+          "zh": "写下一件你一直在抗拒的事。设定十分钟计时，不加评判地自由写下关于它的一切。"
+        },
+        {
+          "en": "Take a walk near water, or run cold water over your hands for one minute while thinking of what you want to release.",
+          "zh": "去水边散散步，或用凉水冲洗双手一分钟，同时想象你想放下的事物。"
+        },
+        {
+          "en": "Tell one trusted person one thing you have been keeping to yourself.",
+          "zh": "告诉一个你信任的人，一件你一直放在心里的事。"
+        }
+      ]
+    },
+    {
+      "id": "mirror",
+      "family": "earth",
+      "themes": [
+        "reflection",
+        "self-perception",
+        "projection",
+        "clarity",
+        "honesty"
+      ],
+      "names": {
+        "en": "Mirror",
+        "zh": "镜子"
+      },
+      "shortMeaning": {
+        "en": "What you see in others may be a reflection of what you carry yourself.",
+        "zh": "你在他人身上看到的，也许是你自己内心所承载之物的映照。"
+      },
+      "lightMeaning": {
+        "en": "You have the capacity for clear seeing — of yourself and your situation.",
+        "zh": "你有清晰看见的能力——看见你自己，也看见你的处境。"
+      },
+      "shadowMeaning": {
+        "en": "The mirror can also distort. Your current perception may be colored by fear or old pain.",
+        "zh": "镜子也会扭曲。你目前的感知也许被恐惧或旧日的痛苦所染色。"
+      },
+      "topicInterpretations": {
+        "love": {
+          "en": "The qualities you admire — or dislike most — in this person may be showing you something about yourself. This is not blame. It is information.",
+          "zh": "你最欣赏或最不喜欢这个人的那些特质，也许正在映照出你自己内心所带着的东西。这不是责怪，而是信息。"
+        },
+        "career": {
+          "en": "How you see your colleagues and your workplace may reflect your own anxieties and desires more than the actual situation.",
+          "zh": "你对同事和工作环境的看法，可能更多地反映了你自己的焦虑和渴望，而非实际情况。"
+        },
+        "money": {
+          "en": "Your relationship with money often mirrors your relationship with self-worth. What story are you telling about what you deserve?",
+          "zh": "你与金钱的关系，往往映照着你与自我价值的关系。你在告诉自己什么关于你值得拥有什么的故事？"
+        },
+        "family": {
+          "en": "The family member who frustrates you most may be showing you a pattern you also carry. That is not a comfortable truth — but it is a useful one.",
+          "zh": "最让你感到挫折的家庭成员，也许正在向你展示你自己也带着的某种模式。这不是一个舒适的真相——但它是一个有用的真相。"
+        },
+        "self": {
+          "en": "You cannot see your own face without a mirror. Who or what is reflecting your truest self back to you right now?",
+          "zh": "没有镜子你看不见自己的脸。此刻，是谁或什么，在将你最真实的自己映照给你看？"
+        },
+        "health": {
+          "en": "How you see your body and your health may be filtered through fear or old judgment. Separate from that story, what is the situation actually telling you?",
+          "zh": "你看待自己身体和健康的方式，也许被恐惧或旧日的评判所过滤。抛开那些叙事，这个情况实际上在告诉你什么？"
+        }
+      },
+      "reflectionQuestions": [
+        {
+          "en": "What about this situation is actually about the other person — and what is about you?",
+          "zh": "这件事中，哪些部分真的是关于对方的——哪些部分其实是关于你的？"
+        },
+        {
+          "en": "Is your current self-perception accurate, or is it filtered through fear?",
+          "zh": "你目前对自己的认知是准确的，还是经过了恐惧的过滤？"
+        },
+        {
+          "en": "Who knows you well enough to offer you a clear, loving reflection?",
+          "zh": "谁足够了解你，能够给你一个清晰而充满爱的镜像？"
+        }
+      ],
+      "realisticActions": [
+        {
+          "en": "Ask a trusted person: \"What do you notice about how I handle [this situation]?\" Listen without defending.",
+          "zh": "问一个你信任的人：\"你注意到我怎么应对这件事？\" 不带防御地倾听。"
+        },
+        {
+          "en": "Write one honest sentence about something you see in someone else that you recognize in yourself.",
+          "zh": "写一句诚实的话，关于你在别人身上看到的、你在自己身上也认出来的某个东西。"
+        },
+        {
+          "en": "Look at your recent decisions in this area — do they match who you want to be?",
+          "zh": "回顾你在这方面最近的决定——它们和你想成为的那个人一致吗？"
+        }
+      ]
+    },
+    {
+      "id": "door",
+      "family": "path",
+      "themes": [
+        "transition",
+        "choice",
+        "threshold",
+        "beginning",
+        "ending"
+      ],
+      "names": {
+        "en": "Door",
+        "zh": "门"
+      },
+      "shortMeaning": {
+        "en": "You are standing at a threshold. The question is not what is behind it — it is whether you are ready to cross.",
+        "zh": "你站在一道门槛前。问题不是门后是什么——而是你是否准备好迈过去。"
+      },
+      "lightMeaning": {
+        "en": "A real option or opening exists. You are closer to a change than you realize.",
+        "zh": "一个真实的选择或开口存在。你距离改变比你意识到的更近。"
+      },
+      "shadowMeaning": {
+        "en": "You may be waiting for certainty that will not arrive before you have to decide.",
+        "zh": "你也许在等待一种确定性，而它在你必须决定之前不会到来。"
+      },
+      "topicInterpretations": {
+        "love": {
+          "en": "Something in this relationship has changed or is changing. A door is open, or one is closing. Notice which it is.",
+          "zh": "这段关系中有什么已经改变或正在改变。一扇门打开了，或者正在关闭。留意是哪一种。"
+        },
+        "career": {
+          "en": "An opportunity or an ending is in front of you. You may be hesitating because you cannot see clearly what is on the other side. That uncertainty is part of the passage.",
+          "zh": "你面前有一个机会或一个终点。你也许在犹豫，因为看不清另一边的情况。那种不确定性是这个过渡的一部分。"
+        },
+        "money": {
+          "en": "A financial decision is waiting. Avoiding it is also a choice, and it has consequences. What would you decide if you trusted yourself more?",
+          "zh": "一个财务决定在等待着你。回避它也是一种选择，而且有代价。如果你更信任自己，你会怎么决定？"
+        },
+        "family": {
+          "en": "A threshold in the family dynamic has arrived — a conversation that needs to happen, a role that needs to shift. What are you waiting for?",
+          "zh": "家庭动态中一个门槛来临了——一次需要发生的对话，一个需要转变的角色。你在等待什么？"
+        },
+        "self": {
+          "en": "You are in a period of genuine transition. The version of yourself on the other side of this will be different. That is not a threat — it is an invitation.",
+          "zh": "你正处于一个真实的过渡期。走过这道门的那个你，将会是不同的样子。这不是威胁——这是邀请。"
+        },
+        "health": {
+          "en": "A health decision or change is in front of you — a habit to begin, a treatment to consider, a conversation with a professional you have been putting off. What are you waiting for?",
+          "zh": "一个健康的决定或改变就在你面前——一个要开始的习惯，一个要考虑的方案，一次你一直推迟的、和专业人士的谈话。你在等待什么？"
+        }
+      },
+      "reflectionQuestions": [
+        {
+          "en": "What door are you standing in front of — and what are you afraid is on the other side?",
+          "zh": "你站在哪扇门前——你害怕门的另一边是什么？"
+        },
+        {
+          "en": "Are you waiting for permission to cross a threshold that only you can give yourself?",
+          "zh": "你是否在等待一个许可——而那个许可只有你能给自己？"
+        },
+        {
+          "en": "What would you choose if you knew you could not go back?",
+          "zh": "如果你知道无法回头，你会做出什么选择？"
+        }
+      ],
+      "realisticActions": [
+        {
+          "en": "Name the decision you have been avoiding. Write it down plainly. Decide on a date when you will make it.",
+          "zh": "说出那个你一直在回避的决定。简单地写下来。决定一个你将做出它的日期。"
+        },
+        {
+          "en": "Talk to one person who has made a transition similar to the one you are facing.",
+          "zh": "和一个曾经经历过类似转变的人谈谈。"
+        },
+        {
+          "en": "Take one small, reversible action in the direction of the door you are considering.",
+          "zh": "朝着你正在考虑的那扇门，迈出一个小的、可逆的行动。"
+        }
+      ]
+    },
+    {
+      "id": "lantern",
+      "family": "path",
+      "themes": [
+        "guidance",
+        "hope",
+        "illumination",
+        "finding-the-way",
+        "small-light"
+      ],
+      "names": {
+        "en": "Lantern",
+        "zh": "灯笼"
+      },
+      "shortMeaning": {
+        "en": "You do not need to see the whole path. You need enough light for the next step.",
+        "zh": "你不需要看见整条路。你只需要足够照亮下一步的光。"
+      },
+      "lightMeaning": {
+        "en": "Something is giving you direction, even if faintly. Follow it.",
+        "zh": "有什么东西在给你指引，即使很微弱。跟随它。"
+      },
+      "shadowMeaning": {
+        "en": "You may be waiting for perfect clarity before you move. A lantern does not illuminate the whole road — only what is directly ahead.",
+        "zh": "你也许在等待完美的清晰才肯前行。灯笼照不亮整条路——只照亮正前方。"
+      },
+      "topicInterpretations": {
+        "love": {
+          "en": "Something in this relationship is giving you hope or guidance. Do not dismiss the small, quiet signals.",
+          "zh": "这段关系中有什么给你带来了希望或指引。不要忽视那些微小、安静的信号。"
+        },
+        "career": {
+          "en": "You do not have a complete plan, and you do not need one yet. What is the next single step you can see clearly?",
+          "zh": "你没有一个完整的计划，现在也不需要。你能清楚看见的下一个单独的步骤是什么？"
+        },
+        "money": {
+          "en": "Financial clarity often comes one decision at a time, not all at once. What one money decision can you make with the information you have today?",
+          "zh": "财务上的清晰往往是一个决定一个决定地到来，而不是一下子全部到来。你今天能用现有信息做出的一个财务决定是什么？"
+        },
+        "family": {
+          "en": "In family relationships, being the one who holds the lantern — who stays steady — is a kind of leadership. You may already be doing this.",
+          "zh": "在家庭关系中，成为那个举着灯笼的人——保持稳定的人——是一种领导力。你也许已经在这样做了。"
+        },
+        "self": {
+          "en": "Your intuition is still working, even when it is quiet. What does your inner sense — not your fear, but your true sense — point toward?",
+          "zh": "你的直觉仍在工作，即使它是安静的。你内在的感知——不是你的恐惧，而是你真正的感知——在指向哪里？"
+        },
+        "health": {
+          "en": "You do not need a complete health plan. What is the one next small step — rest, a glass of water, a phone call — that you can already see clearly today?",
+          "zh": "你不需要一个完整的健康计划。你今天已经能清楚看见的下一小步是什么——休息、一杯水、一个电话？"
+        }
+      },
+      "reflectionQuestions": [
+        {
+          "en": "What is the one next step you can already see clearly, even if the rest is uncertain?",
+          "zh": "你已经能够清晰看见的下一步是什么，哪怕其余的仍然不清晰？"
+        },
+        {
+          "en": "Who or what is the lantern in your life right now — offering you small but real direction?",
+          "zh": "此刻你生命中的灯笼是谁或什么——为你提供微小却真实的方向？"
+        },
+        {
+          "en": "Are you asking for full illumination when a single step forward would be enough?",
+          "zh": "你是否在等待全部的光明，而其实迈出一步已经足够？"
+        }
+      ],
+      "realisticActions": [
+        {
+          "en": "Write down the one next action that you already know you need to take — the one you have been postponing.",
+          "zh": "写下你已经知道需要去做的下一个行动——那个你一直在推迟的行动。"
+        },
+        {
+          "en": "Create one small source of light or warmth in your environment today (a candle, a lamp, time outside).",
+          "zh": "今天在你的环境中创造一个小小的光源或温暖（一根蜡烛、一盏灯、在户外的时间）。"
+        },
+        {
+          "en": "Before bed, write one thing that went right today, however small.",
+          "zh": "睡前，写下今天一件进展顺利的事，哪怕多么微小。"
+        }
+      ]
+    },
+    {
+      "id": "mist",
+      "family": "water",
+      "themes": [
+        "uncertainty",
+        "obscured-perception",
+        "patience",
+        "waiting",
+        "what-cannot-be-seen"
+      ],
+      "names": {
+        "en": "Mist",
+        "zh": "迷雾"
+      },
+      "shortMeaning": {
+        "en": "Not all things can be seen clearly from where you stand. This is temporary.",
+        "zh": "不是所有事情从你所站的位置都能看清楚。这是暂时的。"
+      },
+      "lightMeaning": {
+        "en": "Mist is not permanent. Clarity will come. You do not have to force it now.",
+        "zh": "迷雾不是永久的。清晰会到来。你现在不必强求它。"
+      },
+      "shadowMeaning": {
+        "en": "You may be using the mist as a reason not to act, when in fact enough has already cleared for you to take one step.",
+        "zh": "你也许在以迷雾为由不行动，而实际上已经足够清晰，可以迈出一步了。"
+      },
+      "topicInterpretations": {
+        "love": {
+          "en": "This situation is genuinely unclear. You are not failing to understand — there is simply not enough information yet. Practice patience with uncertainty.",
+          "zh": "这个情况确实是不清晰的。你不是理解失败了——只是信息还不够。对不确定性保持耐心。"
+        },
+        "career": {
+          "en": "You cannot see all the variables. That is normal. You do not need to see them all. Focus on what you can control today.",
+          "zh": "你看不到所有的变量。这是正常的。你不需要看到全部。专注在你今天能够控制的事情上。"
+        },
+        "money": {
+          "en": "Financial mist often lifts when you look at the actual numbers. Avoidance makes it thicker. One honest look can thin it considerably.",
+          "zh": "财务的迷雾，往往在你直视实际数字时就散了。回避只会让它更浓。诚实地看一眼，往往能使它相当程度地变薄。"
+        },
+        "family": {
+          "en": "Some family dynamics are genuinely hard to see from inside them. Distance — physical or temporal — sometimes brings clarity that closeness cannot.",
+          "zh": "一些家庭动态从内部很难看清楚。距离——物理或时间上的——有时会带来亲近时无法得到的清晰。"
+        },
+        "self": {
+          "en": "You are in a period where you do not fully know yourself yet. That is not failure. That is growth in process.",
+          "zh": "你正处于一个还不完全了解自己的阶段。这不是失败。这是正在进行中的成长。"
+        },
+        "health": {
+          "en": "Some things about your health are genuinely unclear right now. Avoidance thickens the fog; one honest look — or one honest question to a professional — can thin it considerably.",
+          "zh": "关于你的健康，有些事情此刻确实不清晰。回避会让迷雾更浓；诚实地看一眼——或向专业人士诚实地问一个问题——能让它相当程度地变薄。"
+        }
+      },
+      "reflectionQuestions": [
+        {
+          "en": "What would you do if you accepted that the uncertainty is not going to resolve before you need to act?",
+          "zh": "如果你接受了不确定性在你需要行动之前不会消散，你会怎么做？"
+        },
+        {
+          "en": "Are you waiting for clarity, or are you avoiding looking at what you might see?",
+          "zh": "你在等待清晰，还是在回避直视你可能会看到的东西？"
+        },
+        {
+          "en": "What can you control in this situation, right now, regardless of what remains unclear?",
+          "zh": "在这个情况中，此刻你能控制什么——无论有多少仍然不清晰？"
+        }
+      ],
+      "realisticActions": [
+        {
+          "en": "Write down what you do know — not what is uncertain. Focus on the known for five minutes.",
+          "zh": "写下你确实知道的事——而不是不确定的事。专注于已知的事情五分钟。"
+        },
+        {
+          "en": "Set a date when you will make a decision even if the mist has not fully cleared.",
+          "zh": "设定一个日期，届时即使迷雾尚未完全散去，你也会做出决定。"
+        },
+        {
+          "en": "Do one small thing today that is within your control, related to this situation.",
+          "zh": "今天做一件与这件事相关、在你掌控之内的小事。"
+        }
+      ]
+    },
+    {
+      "id": "seed",
+      "family": "earth",
+      "themes": [
+        "potential",
+        "patience",
+        "beginning",
+        "invisible-growth",
+        "quiet-becoming"
+      ],
+      "names": {
+        "en": "Seed",
+        "zh": "种子"
+      },
+      "shortMeaning": {
+        "en": "Something real has been planted. It is not nothing simply because it is not visible yet.",
+        "zh": "真实的东西已经种下。不可见并不意味着它不存在。"
+      },
+      "lightMeaning": {
+        "en": "The work you have done — or the change you have initiated — is real and growing, even if you cannot see it yet.",
+        "zh": "你所做的工作——或你发起的改变——是真实的，并且正在生长，即使你还看不见。"
+      },
+      "shadowMeaning": {
+        "en": "You may be digging up the seed to check if it is growing, which prevents it from growing.",
+        "zh": "你也许在不断挖出种子检查它是否在生长，而这恰恰阻止了它的生长。"
+      },
+      "topicInterpretations": {
+        "love": {
+          "en": "This relationship — or your readiness for one — is at an early stage. Do not evaluate it by what it is not yet.",
+          "zh": "这段关系——或你对关系的准备——还处于早期阶段。不要用它还不是的东西来评价它。"
+        },
+        "career": {
+          "en": "Something you have started or considered is in its early phase. Give it the conditions to grow before you decide it has failed.",
+          "zh": "你已经开始或考虑过的某件事正处于早期阶段。在你决定它已经失败之前，给它生长的条件。"
+        },
+        "money": {
+          "en": "Financial change is often slow and invisible at first. Are there small consistent actions you have been taking that deserve more credit?",
+          "zh": "财务变化一开始往往是缓慢且无形的。你一直在做的那些小而持续的行动，是否值得更多的认可？"
+        },
+        "family": {
+          "en": "A conversation you have had, a boundary you have set, or a change you have made in yourself — these are seeds. They take time.",
+          "zh": "你进行过的一次谈话，你设定的一个边界，或你在自己身上做出的一个改变——这些都是种子。它们需要时间。"
+        },
+        "self": {
+          "en": "You are becoming something new. The transition is real, even when it is invisible to others and sometimes to you.",
+          "zh": "你正在成为某种新的东西。这个转变是真实的，即使它对别人和有时对你自己来说是看不见的。"
+        },
+        "health": {
+          "en": "Healing and healthy change are often slow and invisible at first. The small, consistent care you give your body is real and growing, even before you can see the results.",
+          "zh": "疗愈和健康的改变，一开始往往是缓慢且无形的。你给身体的那些微小而持续的照料是真实的，并且正在生长，即使你还看不到结果。"
+        }
+      },
+      "reflectionQuestions": [
+        {
+          "en": "What have you already started that deserves more patience from you?",
+          "zh": "你已经开始的什么事情，值得你给予更多的耐心？"
+        },
+        {
+          "en": "Are you expecting to see results from work that has only just begun?",
+          "zh": "你是否在期待从刚刚开始的事情中看到结果？"
+        },
+        {
+          "en": "What conditions does the seed need — what do you need — in order to grow?",
+          "zh": "这颗种子需要什么条件——你需要什么——才能生长？"
+        }
+      ],
+      "realisticActions": [
+        {
+          "en": "Write down one thing you have already started that you have dismissed as \"not working yet.\"",
+          "zh": "写下一件你已经开始、但被你归类为\"还没有起作用\"的事情。"
+        },
+        {
+          "en": "Commit to one small, consistent action in this area for the next seven days without evaluating the result.",
+          "zh": "在接下来的七天里，承诺在这个领域做一个小而持续的行动，不评判结果。"
+        },
+        {
+          "en": "Create one condition that supports growth: more rest, one conversation, one resource.",
+          "zh": "创造一个支持成长的条件：更多的休息、一次对话、一种资源。"
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "family": "path",
+      "themes": [
+        "connection",
+        "crossing",
+        "mediation",
+        "between-states",
+        "reaching-across"
+      ],
+      "names": {
+        "en": "Bridge",
+        "zh": "桥"
+      },
+      "shortMeaning": {
+        "en": "There is a way across. You may need to build it, or you may need to accept the one already there.",
+        "zh": "有一条跨越的路。你也许需要建造它，或者接受那条已经存在的。"
+      },
+      "lightMeaning": {
+        "en": "Connection is possible. The gap you are facing can be crossed.",
+        "zh": "连接是可能的。你面对的鸿沟可以跨越。"
+      },
+      "shadowMeaning": {
+        "en": "A bridge requires two sides to land on. Check that you know clearly where you are going — not just that you want to get across.",
+        "zh": "一座桥需要两端落脚。确认你清楚地知道你要去哪里——而不仅仅是你想过去。"
+      },
+      "topicInterpretations": {
+        "love": {
+          "en": "The gap between you and this person can be crossed — but both sides need to be willing. What is your part in the crossing?",
+          "zh": "你和这个人之间的鸿沟可以跨越——但双方都需要愿意。你在这次跨越中的部分是什么？"
+        },
+        "career": {
+          "en": "A collaboration, a relationship, or a transition is possible. What would it take to build or use the bridge in front of you?",
+          "zh": "一次合作、一段关系或一次过渡是可能的。建立或使用你面前的桥梁，需要什么？"
+        },
+        "money": {
+          "en": "Financial bridges often look like help, education, or planning. Is there a resource you have not asked for or used?",
+          "zh": "财务上的桥梁往往看起来像帮助、教育或计划。有没有你还没有请求或使用的资源？"
+        },
+        "family": {
+          "en": "Something bridges generational or emotional distance in your family. What — or who — is that bridge, and are you using it?",
+          "zh": "有什么东西能够跨越家庭中的代际或情感距离。那座桥是什么或是谁，你是否在使用它？"
+        },
+        "self": {
+          "en": "You are in between an old version of yourself and a new one. The bridge is the practices and relationships that are holding you during the crossing.",
+          "zh": "你正处于旧版本的自己和新版本的自己之间。那座桥是那些在你过渡期间撑着你的实践和关系。"
+        },
+        "health": {
+          "en": "You do not have to cross this alone. A doctor, a friend, a support group — what bridge toward help have you not yet reached for?",
+          "zh": "你不必独自跨越这一切。一位医生、一个朋友、一个支持团体——有什么通往帮助的桥，是你还没有伸手去够的？"
+        }
+      },
+      "reflectionQuestions": [
+        {
+          "en": "What is the gap you most want to cross — and what would the other side look like?",
+          "zh": "你最想跨越的鸿沟是什么——另一边会是什么样子？"
+        },
+        {
+          "en": "Who is willing to meet you in the middle?",
+          "zh": "谁愿意在中间迎接你？"
+        },
+        {
+          "en": "Are you waiting for the bridge to appear, or are you the one who needs to begin building it?",
+          "zh": "你在等待桥出现，还是你是那个需要开始建造它的人？"
+        }
+      ],
+      "realisticActions": [
+        {
+          "en": "Reach out to one person you have been meaning to reconnect with.",
+          "zh": "联系一个你一直想要重新联络的人。"
+        },
+        {
+          "en": "Identify one concrete step that moves you from where you are to where you want to be.",
+          "zh": "找出一个具体的步骤，将你从现在的地方移向你想去的地方。"
+        },
+        {
+          "en": "Write down what crossing this bridge would actually change in your daily life.",
+          "zh": "写下跨越这座桥，实际上会改变你日常生活的什么。"
+        }
+      ]
+    },
+    {
+      "id": "thread",
+      "family": "path",
+      "themes": [
+        "connection",
+        "pattern",
+        "tracing",
+        "continuity",
+        "what-links"
+      ],
+      "names": {
+        "en": "Thread",
+        "zh": "线"
+      },
+      "shortMeaning": {
+        "en": "There is a through-line in your story that you may not yet be able to see.",
+        "zh": "你的故事中有一条贯穿线，你也许还看不见它。"
+      },
+      "lightMeaning": {
+        "en": "Your experiences are connected. There is a pattern, and it is leading somewhere.",
+        "zh": "你的经历是相互连接的。有一种模式，它正在通向某处。"
+      },
+      "shadowMeaning": {
+        "en": "Not every thread is worth following. Some connections are habits, not meaning. Discern which is which.",
+        "zh": "不是每条线都值得跟随。有些连接是习惯，而非意义。分辨哪个是哪个。"
+      },
+      "topicInterpretations": {
+        "love": {
+          "en": "Look for the thread that runs through your relationship history. What keeps showing up? Is it something you want to continue or to change?",
+          "zh": "寻找贯穿你关系史的那条线。什么一直在出现？那是你想继续的，还是想改变的？"
+        },
+        "career": {
+          "en": "There is a thread of interest, skill, or meaning running through your work history. What is it pointing toward?",
+          "zh": "在你的工作经历中有一条兴趣、技能或意义的线索。它指向哪里？"
+        },
+        "money": {
+          "en": "Your financial patterns are a thread. Notice what keeps repeating and ask whether that repetition is serving you.",
+          "zh": "你的财务模式是一条线。留意什么不断重复，并问问那个重复是否在为你服务。"
+        },
+        "family": {
+          "en": "Family patterns repeat across generations. You are not simply living your own life — you are also holding threads from before you. Which ones do you want to carry forward?",
+          "zh": "家庭模式跨越几代重复。你不只是在过自己的生活——你也在承载着比你更早的线索。你想传承哪些？"
+        },
+        "self": {
+          "en": "Your sense of identity is a thread you are weaving continuously. What are you adding to it now?",
+          "zh": "你的身份感是一条你不断编织的线。你现在正在为它添加什么？"
+        },
+        "health": {
+          "en": "There is a thread running through how you treat your body — sleep, movement, food, stress. Notice what keeps repeating, and ask whether that pattern is serving you.",
+          "zh": "在你如何对待身体的方式中有一条贯穿线——睡眠、运动、饮食、压力。留意什么在不断重复，并问问那个模式是否在为你服务。"
+        }
+      },
+      "reflectionQuestions": [
+        {
+          "en": "What pattern do you notice running through this situation — one you have seen before?",
+          "zh": "你注意到贯穿这个情况的什么模式——一个你以前见过的？"
+        },
+        {
+          "en": "Is this thread connecting you to something meaningful, or is it a loop you want to break?",
+          "zh": "这条线将你连接到有意义的东西，还是你想打破的一个循环？"
+        },
+        {
+          "en": "If you could see your life from the outside, what story would the thread tell?",
+          "zh": "如果你能从外部看见你的生命，这条线会讲述什么故事？"
+        }
+      ],
+      "realisticActions": [
+        {
+          "en": "List three times this situation or feeling has shown up before. What did you do? What happened?",
+          "zh": "列出这个情况或感受之前出现过的三次。你做了什么？发生了什么？"
+        },
+        {
+          "en": "Write one sentence describing the pattern you see. Is it one you want to continue?",
+          "zh": "写一句话描述你看到的模式。那是你想继续的吗？"
+        },
+        {
+          "en": "Choose one small action that interrupts the pattern — or one that continues it intentionally.",
+          "zh": "选择一个能打断这个模式的小行动——或者一个有意延续它的行动。"
+        }
+      ]
+    },
+    {
+      "id": "moon",
+      "family": "water",
+      "themes": [
+        "cycles",
+        "phases",
+        "unconscious",
+        "intuition",
+        "what-waxes-and-wanes"
+      ],
+      "names": {
+        "en": "Moon",
+        "zh": "月"
+      },
+      "shortMeaning": {
+        "en": "You are in a phase, not a permanent state. What feels full or empty right now will shift.",
+        "zh": "你正处于一个阶段，而非永久的状态。此刻感觉满溢或空缺的，都会改变。"
+      },
+      "lightMeaning": {
+        "en": "Your intuition is particularly active. Pay attention to what surfaces when you are quiet.",
+        "zh": "你的直觉此刻特别活跃。留意你安静下来时浮现的东西。"
+      },
+      "shadowMeaning": {
+        "en": "The Moon can make things look different than they are. Emotional states are real but not always accurate reporters of fact.",
+        "zh": "月亮会让事物看起来与实际不同。情绪状态是真实的，但并非总是事实的准确报告者。"
+      },
+      "topicInterpretations": {
+        "love": {
+          "en": "This relationship has phases. Where are you in the cycle right now — and is this a phase or a permanent shift?",
+          "zh": "这段关系有其阶段。你现在处于循环的哪个位置——这是一个阶段，还是一个永久的转变？"
+        },
+        "career": {
+          "en": "Your motivation and energy in your work naturally cycle. This may be a low phase, not a permanent lack of direction.",
+          "zh": "你在工作中的动力和能量自然地循环。这也许是一个低谷阶段，而不是永久性的方向迷失。"
+        },
+        "money": {
+          "en": "Financial anxiety often peaks and recedes in cycles. Is this a genuine crisis or a peak of worry that will pass with more information?",
+          "zh": "财务焦虑往往在循环中达到高峰再消退。这是真正的危机，还是随着更多信息会消散的担忧高峰？"
+        },
+        "family": {
+          "en": "Family dynamics cycle too — tension, closeness, distance, repair. Where are you in this cycle, and what does this phase ask of you?",
+          "zh": "家庭动态也循环——紧张、亲密、距离、修复。你处于这个循环的哪个位置，这个阶段要求你做什么？"
+        },
+        "self": {
+          "en": "You are in a particular phase of your inner life. Honor the phase without mistaking it for your permanent state.",
+          "zh": "你正处于内心生活的某个特定阶段。荣耀这个阶段，但不要把它误认为是你的永久状态。"
+        },
+        "health": {
+          "en": "Your health moves in cycles — energy rises and falls, symptoms wax and wane. Is this a passing phase, or a signal of something that genuinely needs attention?",
+          "zh": "你的健康在循环中移动——精力起伏，症状涨落。这是一个会过去的阶段，还是某个确实需要关注的信号？"
+        }
+      },
+      "reflectionQuestions": [
+        {
+          "en": "Is this a phase, or has something fundamentally changed?",
+          "zh": "这是一个阶段，还是某些东西已经从根本上改变了？"
+        },
+        {
+          "en": "What does your quietest, most honest inner voice say about this situation — separate from your anxious thoughts?",
+          "zh": "你最安静、最诚实的内心声音，对这个情况说了什么——从你焦虑的想法中分离出来？"
+        },
+        {
+          "en": "What have previous cycles taught you about how this kind of difficulty resolves?",
+          "zh": "以前的循环教会了你什么关于这种困难如何解决的事情？"
+        }
+      ],
+      "realisticActions": [
+        {
+          "en": "Notice your energy and mood at the same time each day for three days. Write one word each time. Look for the pattern.",
+          "zh": "连续三天在同一时间观察你的能量和情绪。每次写一个词。寻找模式。"
+        },
+        {
+          "en": "Do one thing that has helped you in a previous difficult cycle: a practice, a person, a place.",
+          "zh": "做一件曾在上一个困难循环中帮助过你的事：一种实践、一个人、一个地方。"
+        },
+        {
+          "en": "Write a letter to yourself from three months in the future, describing how this phase passed.",
+          "zh": "从三个月后的自己写一封信给现在的自己，描述这个阶段是如何过去的。"
+        }
+      ]
+    },
+    {
+      "id": "stone",
+      "family": "earth",
+      "themes": [
+        "stability",
+        "endurance",
+        "weight",
+        "what-is-solid",
+        "what-cannot-move"
+      ],
+      "names": {
+        "en": "Stone",
+        "zh": "石"
+      },
+      "shortMeaning": {
+        "en": "Some things are solid and will hold. Others are immovable obstacles. Learn to tell the difference.",
+        "zh": "有些东西是坚实的，会持守。另一些是无法移动的障碍。学会分辨其中的差别。"
+      },
+      "lightMeaning": {
+        "en": "You have more inner stability than you currently feel. You have endured before.",
+        "zh": "你拥有比你目前感受到的更多的内在稳定性。你以前也曾坚持过来。"
+      },
+      "shadowMeaning": {
+        "en": "Rigidity is not the same as strength. Some of what you are holding tightly is weighing you down, not holding you up.",
+        "zh": "固执不等于力量。你紧握的某些东西正在把你压垮，而不是支撑着你。"
+      },
+      "topicInterpretations": {
+        "love": {
+          "en": "What in this relationship is truly solid, and what are you trying to make solid that is not?",
+          "zh": "这段关系中什么是真正稳固的，你又在试图使什么变得稳固而它实际上并不稳固？"
+        },
+        "career": {
+          "en": "What is the foundation of your work — the real, lasting thing you bring — separate from titles, income, or external validation?",
+          "zh": "你工作的基础是什么——你真正持久地带来的东西——独立于头衔、收入或外部认可之外？"
+        },
+        "money": {
+          "en": "Financial stability is built from consistency, not luck. What consistent practice is your foundation, and what is undermining it?",
+          "zh": "财务稳定是靠一致性建立的，而不是靠运气。你一致的实践是你的基础，什么在破坏它？"
+        },
+        "family": {
+          "en": "Every family has stones — things that do not change, for better or worse. Which stones are foundational, and which are in the way?",
+          "zh": "每个家庭都有石头——不会改变的事情，无论好坏。哪些石头是基础性的，哪些是挡路的？"
+        },
+        "self": {
+          "en": "What do you know about yourself that does not change regardless of circumstances? That is your stone.",
+          "zh": "无论环境如何都不会改变的关于你自己的东西是什么？那是你的石头。"
+        },
+        "health": {
+          "en": "Your body has endured more than you often give it credit for. What is genuinely solid in your health — and what strain or rigidity are you carrying that is weighing you down rather than holding you up?",
+          "zh": "你的身体承受的，远比你常常认可的要多。你的健康中什么是真正稳固的——你又在承载着什么让你疲惫而非支撑你的紧绷或僵硬？"
+        }
+      },
+      "reflectionQuestions": [
+        {
+          "en": "What is truly immovable in this situation — and is that immovability a resource or a limitation?",
+          "zh": "这个情况中什么是真正不可移动的——那种不可移动是一种资源还是一种限制？"
+        },
+        {
+          "en": "Are you confusing stubbornness with stability?",
+          "zh": "你是否在将固执与稳定性混淆？"
+        },
+        {
+          "en": "What is one solid, reliable thing you can stand on right now?",
+          "zh": "此刻你能站立在其上的一件稳固、可靠的事情是什么？"
+        }
+      ],
+      "realisticActions": [
+        {
+          "en": "Write down three things that you know for certain — about yourself, your values, or your situation. These are your stones.",
+          "zh": "写下三件你确定的事情——关于你自己、你的价值观或你的情况。这些是你的石头。"
+        },
+        {
+          "en": "Identify one thing you are carrying that is too heavy to keep. Name it. Consider what it would take to set it down.",
+          "zh": "找出一件你承载着的太重而无法继续的事情。命名它。思考放下它需要什么。"
+        },
+        {
+          "en": "Do one thing today that reflects your actual values, not your fears.",
+          "zh": "今天做一件反映你真实价值观的事，而不是你的恐惧。"
+        }
+      ]
+    },
+    {
+      "id": "tide",
+      "family": "water",
+      "themes": [
+        "rhythm",
+        "pull",
+        "inevitability",
+        "larger-forces",
+        "timing"
+      ],
+      "names": {
+        "en": "Tide",
+        "zh": "潮汐"
+      },
+      "shortMeaning": {
+        "en": "Some forces are larger than your control. Knowing when to move with them and when to resist is the work.",
+        "zh": "有些力量超出你的掌控。知道何时随之而动、何时抵御，这才是真正的功课。"
+      },
+      "lightMeaning": {
+        "en": "You are moving with a natural force. This is the right time for this.",
+        "zh": "你正随着一种自然的力量移动。这是做这件事的正确时机。"
+      },
+      "shadowMeaning": {
+        "en": "You may be swimming against a tide that is simply part of a natural cycle. Exhaustion is not the same as effort.",
+        "zh": "你也许在逆着一股潮汐游泳，而那只是自然循环的一部分。精疲力竭与努力不是一回事。"
+      },
+      "topicInterpretations": {
+        "love": {
+          "en": "There is a rhythm to this relationship that is larger than either person's individual will. Notice when you are moving with it and when you are fighting it.",
+          "zh": "这段关系有一种比任何一个人的个人意愿都更大的节奏。留意你什么时候在随之流动，什么时候在与之抗争。"
+        },
+        "career": {
+          "en": "There are forces — in your industry, your organization, your life stage — that are shaping your situation. What can you work with, and what should you resist?",
+          "zh": "你的行业、你的组织、你的人生阶段中有一些力量正在塑造你的情况。你能与什么合作，应该抵制什么？"
+        },
+        "money": {
+          "en": "Economic forces are real. Do not take on all the responsibility for outcomes that have structural causes. Focus on what you can influence.",
+          "zh": "经济力量是真实的。不要把所有有结构性原因的结果的责任都揽在自己身上。专注于你能影响的事情。"
+        },
+        "family": {
+          "en": "Family systems have tides too. The family is in a particular phase. What does this phase ask of you — to move with, or to hold steady against?",
+          "zh": "家庭系统也有潮汐。家庭正处于某个特定阶段。这个阶段要求你做什么——随之流动，还是稳定地抵御？"
+        },
+        "self": {
+          "en": "You are being shaped by forces both inside and outside you. This is not weakness. It is how growth works.",
+          "zh": "你正被内外两种力量所塑造。这不是软弱。这就是成长的方式。"
+        },
+        "health": {
+          "en": "Some things about your body are beyond your direct control — aging, genetics, the time healing takes. Work with what you can influence, and rest with what you cannot.",
+          "zh": "关于你的身体，有些事情超出你的直接掌控——衰老、遗传、痊愈所需的时间。与你能影响的合作，对你无法改变的给予休息。"
+        }
+      },
+      "reflectionQuestions": [
+        {
+          "en": "What force larger than yourself are you currently working with — or against?",
+          "zh": "你目前正在与什么比你更大的力量合作——或者对抗？"
+        },
+        {
+          "en": "Is this the right moment to act, or is this a moment to rest and let the tide move?",
+          "zh": "这是行动的正确时机，还是休息、让潮汐移动的时机？"
+        },
+        {
+          "en": "What are you trying to control that may simply be a natural rhythm?",
+          "zh": "你试图控制的是什么，而那可能只是一种自然节奏？"
+        }
+      ],
+      "realisticActions": [
+        {
+          "en": "Write down what is in your control in this situation and what is not. Focus your energy only on the first list.",
+          "zh": "写下在这个情况中什么在你的掌控之内，什么不在。只将你的能量集中在第一个清单上。"
+        },
+        {
+          "en": "Rest deliberately today — not collapse, but intentional restoration. The tide will return.",
+          "zh": "今天有意识地休息——不是崩溃，而是有目的的恢复。潮汐会回来的。"
+        },
+        {
+          "en": "Observe one pattern in nature today (weather, light, sound) and let it be a reminder that rhythms are real.",
+          "zh": "今天在自然中观察一个模式（天气、光线、声音），让它提醒你节奏是真实的。"
+        }
+      ]
+    },
+    {
+      "id": "garden",
+      "family": "earth",
+      "themes": [
+        "cultivation",
+        "tending",
+        "what-you-have-grown",
+        "care",
+        "what-is-overgrown"
+      ],
+      "names": {
+        "en": "Garden",
+        "zh": "花园"
+      },
+      "shortMeaning": {
+        "en": "You are responsible for what you tend. What are you growing — and what have you been neglecting?",
+        "zh": "你对你所照料的东西负有责任。你在培育什么——又在忽视什么？"
+      },
+      "lightMeaning": {
+        "en": "You have cultivated something real. It is worth protecting and continuing.",
+        "zh": "你已经培育了真实的东西。它值得守护和延续。"
+      },
+      "shadowMeaning": {
+        "en": "Some things in your garden were planted by others, not by you. You are allowed to remove what you did not choose.",
+        "zh": "你花园里的某些东西是别人种下的，不是你。你有权移除你没有选择的东西。"
+      },
+      "topicInterpretations": {
+        "love": {
+          "en": "A relationship is a garden. What have you planted together, and what is each of you contributing to its care?",
+          "zh": "关系是一个花园。你们一起种下了什么，你们每个人对它的照料都在贡献什么？"
+        },
+        "career": {
+          "en": "Your skills, reputation, and relationships are a garden. What are you actively tending — and what has been left to go to seed?",
+          "zh": "你的技能、声誉和关系是一个花园。你在积极耕耘什么——什么被遗忘了？"
+        },
+        "money": {
+          "en": "Your financial life is something you cultivate over time. What habits are the seeds you are planting now? What will they grow into?",
+          "zh": "你的财务生活是你随时间培养的东西。你现在种下的习惯是什么种子？它们会长成什么？"
+        },
+        "family": {
+          "en": "Your family of origin planted many things in you — beliefs, patterns, fears, gifts. Which of these plants do you want to keep, and which do you want to remove?",
+          "zh": "你的原生家庭在你身上种下了很多东西——信仰、模式、恐惧、礼物。你想留住哪些植物，想移除哪些？"
+        },
+        "self": {
+          "en": "Your inner life is a garden. What practices, relationships, and ideas are you tending? What have you been neglecting?",
+          "zh": "你的内心生活是一个花园。你在耕耘什么实践、关系和想法？你在忽视什么？"
+        },
+        "health": {
+          "en": "Your health is something you tend over time. What are you nourishing well, and what have you been neglecting until it finally calls for your attention?",
+          "zh": "你的健康是你随时间照料的东西。你在好好滋养什么，又一直忽视什么，直到它最终不得不呼唤你的注意？"
+        }
+      },
+      "reflectionQuestions": [
+        {
+          "en": "What in your life is genuinely flourishing — what have you successfully grown?",
+          "zh": "你生命中什么在真正繁盛——你成功地培育了什么？"
+        },
+        {
+          "en": "What have you been neglecting that needs attention before it is too late to recover?",
+          "zh": "你一直在忽视什么，而它需要在为时太晚之前得到关注？"
+        },
+        {
+          "en": "What was planted in you by others that you have been tending out of habit rather than choice?",
+          "zh": "有什么是别人种在你身上的，而你一直出于习惯而非选择在照料它？"
+        }
+      ],
+      "realisticActions": [
+        {
+          "en": "Identify one relationship, practice, or project that is flourishing. Take one action to explicitly tend it today.",
+          "zh": "找出一段正在繁盛的关系、实践或项目。今天采取一个行动明确地照料它。"
+        },
+        {
+          "en": "Identify one thing that is dying from neglect. Decide: commit to tending it, or let it go.",
+          "zh": "找出一件正在因忽视而凋零的事情。做决定：承诺照料它，还是让它去。"
+        },
+        {
+          "en": "Remove one thing from your life — a habit, a commitment, an object — that you did not choose and no longer want to carry.",
+          "zh": "从你的生活中移除一样东西——一个习惯、一个承诺、一个物品——你没有选择它，也不再想承载它。"
+        }
+      ]
+    }
+  ]
+}

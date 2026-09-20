@@ -1,0 +1,72 @@
+{
+  "anxious": {
+    "water": {
+      "en": "When anxious, we sometimes mistake motion for progress. You may be caught in a current — or creating one — that feels like forward movement but is actually circling. Notice whether you are moving through something or around it.",
+      "zh": "焦虑时，我们有时会把移动误认为是进步。你可能被一股洪流裹挟——或者是自己制造了一股——感觉像是前进，却实际上在打转。留意自己是在穿越某件事，还是在绕开它。"
+    },
+    "earth": {
+      "en": "Anxiety can make solid ground feel unstable. You may currently be standing on more than you think — but anxiety makes it hard to trust what is already there. Before looking for more, notice what is already steady.",
+      "zh": "焦虑会让坚实的土地感觉摇摇欲坠。你目前的立足点，也许比你意识到的更稳——但焦虑让人很难信任已有的东西。在寻找更多之前，先留意那些已经稳定的事物。"
+    },
+    "path": {
+      "en": "Anxiety about the path often looks like perfectionism about the destination. You may be waiting for the route to be completely clear before you take even one step. The path is made by walking.",
+      "zh": "对道路的焦虑，往往以对目的地的完美主义形式出现。你也许在等待整条路都清晰可见，才肯迈出第一步。但道路是走出来的。"
+    }
+  },
+  "confused": {
+    "water": {
+      "en": "Confusion can make it hard to distinguish between a situation that is genuinely unclear and one that only feels unclear because you are avoiding looking directly at it. What happens when you look?",
+      "zh": "困惑会让人难以分辨：一个情况是真的模糊不清，还是只是因为你在回避直视它而感觉模糊。如果你直接去看，会发生什么？"
+    },
+    "earth": {
+      "en": "When confused, it is tempting to decide that everything is uncertain. But some things are not uncertain — they are just uncomfortable to acknowledge. What do you already know, even if it is inconvenient?",
+      "zh": "困惑时，很容易认为一切都是不确定的。但有些事情并非不确定——它们只是让人不舒服，难以承认。你已经知道什么了，哪怕这个认知并不方便？"
+    },
+    "path": {
+      "en": "Confusion about which direction to take can sometimes be confusion about what you actually want — not about which option is better. What would you choose if you stopped trying to find the \"right\" answer?",
+      "zh": "对方向感到困惑，有时其实是对自己真正想要什么感到困惑——而不是哪个选项更好的问题。如果你停止寻找\"正确\"答案，你会选择什么？"
+    }
+  },
+  "sad": {
+    "water": {
+      "en": "Sadness sometimes keeps you in motion — busy, managing, surviving — when what you actually need is to stop and let yourself feel the weight of what has happened. Are you moving through the sadness, or past it?",
+      "zh": "悲伤有时让你持续运转——忙碌、应对、勉强撑着——而你真正需要的，是停下来，让自己感受所发生之事的重量。你是在穿越悲伤，还是在绕开它？"
+    },
+    "earth": {
+      "en": "Grief can become a kind of ground — something we stand on so long that it begins to feel permanent. What has been lost is real. But it is worth asking: is this sadness still teaching you something, or has it become a place you stay?",
+      "zh": "悲伤有时会变成一块基石——我们站在上面太久，以至于开始觉得它是永久的。失去的东西是真实的。但值得问问自己：这份悲伤还在教给你什么，还是说它已经变成了你驻留的地方？"
+    },
+    "path": {
+      "en": "Sadness can make the path look blocked when it is actually just different from what you expected. What would it mean to grieve what you hoped for, and then continue?",
+      "zh": "悲伤会让前路看起来像是被堵住了，而实际上它只是和你预期的不同。如果你能哀悼你所期待的那个未来，然后继续前行，那意味着什么？"
+    }
+  },
+  "hopeful": {
+    "water": {
+      "en": "Hope can sometimes keep us in a current that has been carrying us past where we need to stop. If something is consistently disappointing or unclear, hope alone is not a strategy. What else do you need, alongside hope?",
+      "zh": "希望有时会让我们随着一股洪流，飘过了本该停驻的地方。如果某件事持续令你失望或始终不清晰，单靠希望本身并不是一种策略。除了希望，你还需要什么？"
+    },
+    "earth": {
+      "en": "Hope is most useful when it is grounded in something real. What is your hope actually based on? What evidence supports it, and what are you choosing not to see?",
+      "zh": "当希望植根于真实的土壤时，它才最有价值。你的希望究竟建立在什么之上？有什么证据支持它，又有什么是你选择不去看的？"
+    },
+    "path": {
+      "en": "When we are hopeful about a direction, we sometimes move forward without noticing that the path has changed. Is the direction you are heading still the direction you actually want to go?",
+      "zh": "当我们对某个方向充满希望时，有时会向前迈进，却没有注意到道路已经改变了。你正前进的方向，还是你真正想去的方向吗？"
+    }
+  },
+  "stuck": {
+    "water": {
+      "en": "Feeling stuck is sometimes a signal that you are trying to swim when you could float. Some situations resolve better when you stop actively trying to push them and let them move on their own.",
+      "zh": "感到卡住，有时是一个信号：你在奋力游泳，但其实可以漂浮。有些情况在你停止主动推进、让它们自行移动时，反而会更好地解决。"
+    },
+    "earth": {
+      "en": "Feeling stuck can sometimes mean you have outgrown your current ground — not that you are failing, but that this place no longer fits the version of you that is emerging. What would it mean to look for new ground?",
+      "zh": "感到卡住，有时意味着你已经超越了当前的土地——不是你失败了，而是这个地方已经不再适合正在浮现的那个你。寻找新的立足点，意味着什么？"
+    },
+    "path": {
+      "en": "Feeling stuck on a path sometimes means the path needs to be made, not found. What would the first small step of building it look like?",
+      "zh": "在道路上感到卡住，有时意味着这条路需要被创造出来，而不是被找到。建造它的第一小步，会是什么样子？"
+    }
+  }
+}

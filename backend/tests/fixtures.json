@@ -1,0 +1,2032 @@
+{
+  "hash": [
+    {
+      "input": "",
+      "hash": 0
+    },
+    {
+      "input": "a",
+      "hash": 97
+    },
+    {
+      "input": "love-anxious",
+      "hash": 146272428
+    },
+    {
+      "input": "love-anxious-2026-08-02",
+      "hash": 1943598219
+    },
+    {
+      "input": "心符-测试",
+      "hash": 2105418292
+    },
+    {
+      "input": "AbcXyz123",
+      "hash": 2074610907
+    }
+  ],
+  "selection": [
+    {
+      "topic": "love",
+      "emotion": "anxious",
+      "dateString": "2026-08-02",
+      "symbolId": "lantern"
+    },
+    {
+      "topic": "love",
+      "emotion": "anxious",
+      "dateString": "2026-01-01",
+      "symbolId": "seed"
+    },
+    {
+      "topic": "love",
+      "emotion": "anxious",
+      "dateString": "2025-12-31",
+      "symbolId": "lantern"
+    },
+    {
+      "topic": "love",
+      "emotion": "anxious",
+      "dateString": "2024-02-29",
+      "symbolId": "door"
+    },
+    {
+      "topic": "love",
+      "emotion": "anxious",
+      "dateString": "2030-06-15",
+      "symbolId": "door"
+    },
+    {
+      "topic": "love",
+      "emotion": "confused",
+      "dateString": "2026-08-02",
+      "symbolId": "garden"
+    },
+    {
+      "topic": "love",
+      "emotion": "confused",
+      "dateString": "2026-01-01",
+      "symbolId": "mirror"
+    },
+    {
+      "topic": "love",
+      "emotion": "confused",
+      "dateString": "2025-12-31",
+      "symbolId": "thread"
+    },
+    {
+      "topic": "love",
+      "emotion": "confused",
+      "dateString": "2024-02-29",
+      "symbolId": "bridge"
+    },
+    {
+      "topic": "love",
+      "emotion": "confused",
+      "dateString": "2030-06-15",
+      "symbolId": "tide"
+    },
+    {
+      "topic": "love",
+      "emotion": "sad",
+      "dateString": "2026-08-02",
+      "symbolId": "bridge"
+    },
+    {
+      "topic": "love",
+      "emotion": "sad",
+      "dateString": "2026-01-01",
+      "symbolId": "mist"
+    },
+    {
+      "topic": "love",
+      "emotion": "sad",
+      "dateString": "2025-12-31",
+      "symbolId": "moon"
+    },
+    {
+      "topic": "love",
+      "emotion": "sad",
+      "dateString": "2024-02-29",
+      "symbolId": "seed"
+    },
+    {
+      "topic": "love",
+      "emotion": "sad",
+      "dateString": "2030-06-15",
+      "symbolId": "thread"
+    },
+    {
+      "topic": "love",
+      "emotion": "hopeful",
+      "dateString": "2026-08-02",
+      "symbolId": "stone"
+    },
+    {
+      "topic": "love",
+      "emotion": "hopeful",
+      "dateString": "2026-01-01",
+      "symbolId": "garden"
+    },
+    {
+      "topic": "love",
+      "emotion": "hopeful",
+      "dateString": "2025-12-31",
+      "symbolId": "stone"
+    },
+    {
+      "topic": "love",
+      "emotion": "hopeful",
+      "dateString": "2024-02-29",
+      "symbolId": "moon"
+    },
+    {
+      "topic": "love",
+      "emotion": "hopeful",
+      "dateString": "2030-06-15",
+      "symbolId": "moon"
+    },
+    {
+      "topic": "love",
+      "emotion": "stuck",
+      "dateString": "2026-08-02",
+      "symbolId": "river"
+    },
+    {
+      "topic": "love",
+      "emotion": "stuck",
+      "dateString": "2026-01-01",
+      "symbolId": "tide"
+    },
+    {
+      "topic": "love",
+      "emotion": "stuck",
+      "dateString": "2025-12-31",
+      "symbolId": "door"
+    },
+    {
+      "topic": "love",
+      "emotion": "stuck",
+      "dateString": "2024-02-29",
+      "symbolId": "mirror"
+    },
+    {
+      "topic": "love",
+      "emotion": "stuck",
+      "dateString": "2030-06-15",
+      "symbolId": "lantern"
+    },
+    {
+      "topic": "career",
+      "emotion": "anxious",
+      "dateString": "2026-08-02",
+      "symbolId": "thread"
+    },
+    {
+      "topic": "career",
+      "emotion": "anxious",
+      "dateString": "2026-01-01",
+      "symbolId": "stone"
+    },
+    {
+      "topic": "career",
+      "emotion": "anxious",
+      "dateString": "2025-12-31",
+      "symbolId": "garden"
+    },
+    {
+      "topic": "career",
+      "emotion": "anxious",
+      "dateString": "2024-02-29",
+      "symbolId": "tide"
+    },
+    {
+      "topic": "career",
+      "emotion": "anxious",
+      "dateString": "2030-06-15",
+      "symbolId": "bridge"
+    },
+    {
+      "topic": "career",
+      "emotion": "confused",
+      "dateString": "2026-08-02",
+      "symbolId": "stone"
+    },
+    {
+      "topic": "career",
+      "emotion": "confused",
+      "dateString": "2026-01-01",
+      "symbolId": "thread"
+    },
+    {
+      "topic": "career",
+      "emotion": "confused",
+      "dateString": "2025-12-31",
+      "symbolId": "mirror"
+    },
+    {
+      "topic": "career",
+      "emotion": "confused",
+      "dateString": "2024-02-29",
+      "symbolId": "door"
+    },
+    {
+      "topic": "career",
+      "emotion": "confused",
+      "dateString": "2030-06-15",
+      "symbolId": "tide"
+    },
+    {
+      "topic": "career",
+      "emotion": "sad",
+      "dateString": "2026-08-02",
+      "symbolId": "bridge"
+    },
+    {
+      "topic": "career",
+      "emotion": "sad",
+      "dateString": "2026-01-01",
+      "symbolId": "mist"
+    },
+    {
+      "topic": "career",
+      "emotion": "sad",
+      "dateString": "2025-12-31",
+      "symbolId": "mist"
+    },
+    {
+      "topic": "career",
+      "emotion": "sad",
+      "dateString": "2024-02-29",
+      "symbolId": "seed"
+    },
+    {
+      "topic": "career",
+      "emotion": "sad",
+      "dateString": "2030-06-15",
+      "symbolId": "thread"
+    },
+    {
+      "topic": "career",
+      "emotion": "hopeful",
+      "dateString": "2026-08-02",
+      "symbolId": "mirror"
+    },
+    {
+      "topic": "career",
+      "emotion": "hopeful",
+      "dateString": "2026-01-01",
+      "symbolId": "lantern"
+    },
+    {
+      "topic": "career",
+      "emotion": "hopeful",
+      "dateString": "2025-12-31",
+      "symbolId": "seed"
+    },
+    {
+      "topic": "career",
+      "emotion": "hopeful",
+      "dateString": "2024-02-29",
+      "symbolId": "mist"
+    },
+    {
+      "topic": "career",
+      "emotion": "hopeful",
+      "dateString": "2030-06-15",
+      "symbolId": "river"
+    },
+    {
+      "topic": "career",
+      "emotion": "stuck",
+      "dateString": "2026-08-02",
+      "symbolId": "mist"
+    },
+    {
+      "topic": "career",
+      "emotion": "stuck",
+      "dateString": "2026-01-01",
+      "symbolId": "bridge"
+    },
+    {
+      "topic": "career",
+      "emotion": "stuck",
+      "dateString": "2025-12-31",
+      "symbolId": "door"
+    },
+    {
+      "topic": "career",
+      "emotion": "stuck",
+      "dateString": "2024-02-29",
+      "symbolId": "mirror"
+    },
+    {
+      "topic": "career",
+      "emotion": "stuck",
+      "dateString": "2030-06-15",
+      "symbolId": "lantern"
+    },
+    {
+      "topic": "money",
+      "emotion": "anxious",
+      "dateString": "2026-08-02",
+      "symbolId": "thread"
+    },
+    {
+      "topic": "money",
+      "emotion": "anxious",
+      "dateString": "2026-01-01",
+      "symbolId": "seed"
+    },
+    {
+      "topic": "money",
+      "emotion": "anxious",
+      "dateString": "2025-12-31",
+      "symbolId": "stone"
+    },
+    {
+      "topic": "money",
+      "emotion": "anxious",
+      "dateString": "2024-02-29",
+      "symbolId": "moon"
+    },
+    {
+      "topic": "money",
+      "emotion": "anxious",
+      "dateString": "2030-06-15",
+      "symbolId": "moon"
+    },
+    {
+      "topic": "money",
+      "emotion": "confused",
+      "dateString": "2026-08-02",
+      "symbolId": "seed"
+    },
+    {
+      "topic": "money",
+      "emotion": "confused",
+      "dateString": "2026-01-01",
+      "symbolId": "thread"
+    },
+    {
+      "topic": "money",
+      "emotion": "confused",
+      "dateString": "2025-12-31",
+      "symbolId": "mirror"
+    },
+    {
+      "topic": "money",
+      "emotion": "confused",
+      "dateString": "2024-02-29",
+      "symbolId": "river"
+    },
+    {
+      "topic": "money",
+      "emotion": "confused",
+      "dateString": "2030-06-15",
+      "symbolId": "mist"
+    },
+    {
+      "topic": "money",
+      "emotion": "sad",
+      "dateString": "2026-08-02",
+      "symbolId": "mist"
+    },
+    {
+      "topic": "money",
+      "emotion": "sad",
+      "dateString": "2026-01-01",
+      "symbolId": "bridge"
+    },
+    {
+      "topic": "money",
+      "emotion": "sad",
+      "dateString": "2025-12-31",
+      "symbolId": "door"
+    },
+    {
+      "topic": "money",
+      "emotion": "sad",
+      "dateString": "2024-02-29",
+      "symbolId": "mirror"
+    },
+    {
+      "topic": "money",
+      "emotion": "sad",
+      "dateString": "2030-06-15",
+      "symbolId": "lantern"
+    },
+    {
+      "topic": "money",
+      "emotion": "hopeful",
+      "dateString": "2026-08-02",
+      "symbolId": "lantern"
+    },
+    {
+      "topic": "money",
+      "emotion": "hopeful",
+      "dateString": "2026-01-01",
+      "symbolId": "seed"
+    },
+    {
+      "topic": "money",
+      "emotion": "hopeful",
+      "dateString": "2025-12-31",
+      "symbolId": "lantern"
+    },
+    {
+      "topic": "money",
+      "emotion": "hopeful",
+      "dateString": "2024-02-29",
+      "symbolId": "door"
+    },
+    {
+      "topic": "money",
+      "emotion": "hopeful",
+      "dateString": "2030-06-15",
+      "symbolId": "door"
+    },
+    {
+      "topic": "money",
+      "emotion": "stuck",
+      "dateString": "2026-08-02",
+      "symbolId": "bridge"
+    },
+    {
+      "topic": "money",
+      "emotion": "stuck",
+      "dateString": "2026-01-01",
+      "symbolId": "moon"
+    },
+    {
+      "topic": "money",
+      "emotion": "stuck",
+      "dateString": "2025-12-31",
+      "symbolId": "river"
+    },
+    {
+      "topic": "money",
+      "emotion": "stuck",
+      "dateString": "2024-02-29",
+      "symbolId": "garden"
+    },
+    {
+      "topic": "money",
+      "emotion": "stuck",
+      "dateString": "2030-06-15",
+      "symbolId": "seed"
+    },
+    {
+      "topic": "family",
+      "emotion": "anxious",
+      "dateString": "2026-08-02",
+      "symbolId": "garden"
+    },
+    {
+      "topic": "family",
+      "emotion": "anxious",
+      "dateString": "2026-01-01",
+      "symbolId": "stone"
+    },
+    {
+      "topic": "family",
+      "emotion": "anxious",
+      "dateString": "2025-12-31",
+      "symbolId": "mirror"
+    },
+    {
+      "topic": "family",
+      "emotion": "anxious",
+      "dateString": "2024-02-29",
+      "symbolId": "river"
+    },
+    {
+      "topic": "family",
+      "emotion": "anxious",
+      "dateString": "2030-06-15",
+      "symbolId": "mist"
+    },
+    {
+      "topic": "family",
+      "emotion": "confused",
+      "dateString": "2026-08-02",
+      "symbolId": "lantern"
+    },
+    {
+      "topic": "family",
+      "emotion": "confused",
+      "dateString": "2026-01-01",
+      "symbolId": "mirror"
+    },
+    {
+      "topic": "family",
+      "emotion": "confused",
+      "dateString": "2025-12-31",
+      "symbolId": "seed"
+    },
+    {
+      "topic": "family",
+      "emotion": "confused",
+      "dateString": "2024-02-29",
+      "symbolId": "moon"
+    },
+    {
+      "topic": "family",
+      "emotion": "confused",
+      "dateString": "2030-06-15",
+      "symbolId": "river"
+    },
+    {
+      "topic": "family",
+      "emotion": "sad",
+      "dateString": "2026-08-02",
+      "symbolId": "river"
+    },
+    {
+      "topic": "family",
+      "emotion": "sad",
+      "dateString": "2026-01-01",
+      "symbolId": "door"
+    },
+    {
+      "topic": "family",
+      "emotion": "sad",
+      "dateString": "2025-12-31",
+      "symbolId": "tide"
+    },
+    {
+      "topic": "family",
+      "emotion": "sad",
+      "dateString": "2024-02-29",
+      "symbolId": "seed"
+    },
+    {
+      "topic": "family",
+      "emotion": "sad",
+      "dateString": "2030-06-15",
+      "symbolId": "garden"
+    },
+    {
+      "topic": "family",
+      "emotion": "hopeful",
+      "dateString": "2026-08-02",
+      "symbolId": "garden"
+    },
+    {
+      "topic": "family",
+      "emotion": "hopeful",
+      "dateString": "2026-01-01",
+      "symbolId": "mirror"
+    },
+    {
+      "topic": "family",
+      "emotion": "hopeful",
+      "dateString": "2025-12-31",
+      "symbolId": "thread"
+    },
+    {
+      "topic": "family",
+      "emotion": "hopeful",
+      "dateString": "2024-02-29",
+      "symbolId": "bridge"
+    },
+    {
+      "topic": "family",
+      "emotion": "hopeful",
+      "dateString": "2030-06-15",
+      "symbolId": "tide"
+    },
+    {
+      "topic": "family",
+      "emotion": "stuck",
+      "dateString": "2026-08-02",
+      "symbolId": "tide"
+    },
+    {
+      "topic": "family",
+      "emotion": "stuck",
+      "dateString": "2026-01-01",
+      "symbolId": "river"
+    },
+    {
+      "topic": "family",
+      "emotion": "stuck",
+      "dateString": "2025-12-31",
+      "symbolId": "moon"
+    },
+    {
+      "topic": "family",
+      "emotion": "stuck",
+      "dateString": "2024-02-29",
+      "symbolId": "stone"
+    },
+    {
+      "topic": "family",
+      "emotion": "stuck",
+      "dateString": "2030-06-15",
+      "symbolId": "lantern"
+    },
+    {
+      "topic": "self",
+      "emotion": "anxious",
+      "dateString": "2026-08-02",
+      "symbolId": "stone"
+    },
+    {
+      "topic": "self",
+      "emotion": "anxious",
+      "dateString": "2026-01-01",
+      "symbolId": "garden"
+    },
+    {
+      "topic": "self",
+      "emotion": "anxious",
+      "dateString": "2025-12-31",
+      "symbolId": "thread"
+    },
+    {
+      "topic": "self",
+      "emotion": "anxious",
+      "dateString": "2024-02-29",
+      "symbolId": "moon"
+    },
+    {
+      "topic": "self",
+      "emotion": "anxious",
+      "dateString": "2030-06-15",
+      "symbolId": "moon"
+    },
+    {
+      "topic": "self",
+      "emotion": "confused",
+      "dateString": "2026-08-02",
+      "symbolId": "garden"
+    },
+    {
+      "topic": "self",
+      "emotion": "confused",
+      "dateString": "2026-01-01",
+      "symbolId": "stone"
+    },
+    {
+      "topic": "self",
+      "emotion": "confused",
+      "dateString": "2025-12-31",
+      "symbolId": "mirror"
+    },
+    {
+      "topic": "self",
+      "emotion": "confused",
+      "dateString": "2024-02-29",
+      "symbolId": "river"
+    },
+    {
+      "topic": "self",
+      "emotion": "confused",
+      "dateString": "2030-06-15",
+      "symbolId": "mist"
+    },
+    {
+      "topic": "self",
+      "emotion": "sad",
+      "dateString": "2026-08-02",
+      "symbolId": "mist"
+    },
+    {
+      "topic": "self",
+      "emotion": "sad",
+      "dateString": "2026-01-01",
+      "symbolId": "bridge"
+    },
+    {
+      "topic": "self",
+      "emotion": "sad",
+      "dateString": "2025-12-31",
+      "symbolId": "door"
+    },
+    {
+      "topic": "self",
+      "emotion": "sad",
+      "dateString": "2024-02-29",
+      "symbolId": "lantern"
+    },
+    {
+      "topic": "self",
+      "emotion": "sad",
+      "dateString": "2030-06-15",
+      "symbolId": "stone"
+    },
+    {
+      "topic": "self",
+      "emotion": "hopeful",
+      "dateString": "2026-08-02",
+      "symbolId": "lantern"
+    },
+    {
+      "topic": "self",
+      "emotion": "hopeful",
+      "dateString": "2026-01-01",
+      "symbolId": "seed"
+    },
+    {
+      "topic": "self",
+      "emotion": "hopeful",
+      "dateString": "2025-12-31",
+      "symbolId": "mirror"
+    },
+    {
+      "topic": "self",
+      "emotion": "hopeful",
+      "dateString": "2024-02-29",
+      "symbolId": "door"
+    },
+    {
+      "topic": "self",
+      "emotion": "hopeful",
+      "dateString": "2030-06-15",
+      "symbolId": "door"
+    },
+    {
+      "topic": "self",
+      "emotion": "stuck",
+      "dateString": "2026-08-02",
+      "symbolId": "door"
+    },
+    {
+      "topic": "self",
+      "emotion": "stuck",
+      "dateString": "2026-01-01",
+      "symbolId": "river"
+    },
+    {
+      "topic": "self",
+      "emotion": "stuck",
+      "dateString": "2025-12-31",
+      "symbolId": "mist"
+    },
+    {
+      "topic": "self",
+      "emotion": "stuck",
+      "dateString": "2024-02-29",
+      "symbolId": "lantern"
+    },
+    {
+      "topic": "self",
+      "emotion": "stuck",
+      "dateString": "2030-06-15",
+      "symbolId": "mirror"
+    }
+  ],
+  "reading": [
+    {
+      "topic": "love",
+      "emotion": "anxious",
+      "symbolId": "lantern",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Anxiety in love often means you care deeply. But care and fear can become hard to separate. What you are feeling right now is real — and it is worth looking at without immediately trying to fix it.",
+        "symbolMeaning": "Something in this relationship is giving you hope or guidance. Do not dismiss the small, quiet signals.",
+        "possibleBlindSpot": "Anxiety about the path often looks like perfectionism about the destination. You may be waiting for the route to be completely clear before you take even one step. The path is made by walking.",
+        "reflectionQuestions": [
+          "What is the one next step you can already see clearly, even if the rest is uncertain?",
+          "Who or what is the lantern in your life right now — offering you small but real direction?",
+          "Are you asking for full illumination when a single step forward would be enough?"
+        ],
+        "oneActionForToday": "Create one small source of light or warmth in your environment today (a candle, a lamp, time outside).",
+        "closingLine": "Something in you already knows what you are reaching toward.",
+        "symbolMeta": {
+          "id": "lantern",
+          "names": {
+            "en": "Lantern",
+            "zh": "灯笼"
+          }
+        }
+      }
+    },
+    {
+      "topic": "love",
+      "emotion": "anxious",
+      "symbolId": "lantern",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "在爱中的焦虑，往往意味着你深深在乎。但关心与恐惧有时难以区分。此刻的感受是真实的——值得静下来看清，而不是立刻试图解决它。",
+        "symbolMeaning": "这段关系中有什么给你带来了希望或指引。不要忽视那些微小、安静的信号。",
+        "possibleBlindSpot": "对道路的焦虑，往往以对目的地的完美主义形式出现。你也许在等待整条路都清晰可见，才肯迈出第一步。但道路是走出来的。",
+        "reflectionQuestions": [
+          "你已经能够清晰看见的下一步是什么，哪怕其余的仍然不清晰？",
+          "此刻你生命中的灯笼是谁或什么——为你提供微小却真实的方向？",
+          "你是否在等待全部的光明，而其实迈出一步已经足够？"
+        ],
+        "oneActionForToday": "今天在你的环境中创造一个小小的光源或温暖（一根蜡烛、一盏灯、在户外的时间）。",
+        "closingLine": "你内心深处，已经知道自己在朝什么靠近。",
+        "symbolMeta": {
+          "id": "lantern",
+          "names": {
+            "en": "Lantern",
+            "zh": "灯笼"
+          }
+        }
+      }
+    },
+    {
+      "topic": "love",
+      "emotion": "confused",
+      "symbolId": "garden",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Confusion in love often means you have more than one true feeling. You do not have to collapse everything into a single answer. You can hold both what is good and what is uncertain.",
+        "symbolMeaning": "A relationship is a garden. What have you planted together, and what is each of you contributing to its care?",
+        "possibleBlindSpot": "When confused, it is tempting to decide that everything is uncertain. But some things are not uncertain — they are just uncomfortable to acknowledge. What do you already know, even if it is inconvenient?",
+        "reflectionQuestions": [
+          "What in your life is genuinely flourishing — what have you successfully grown?",
+          "What have you been neglecting that needs attention before it is too late to recover?",
+          "What was planted in you by others that you have been tending out of habit rather than choice?"
+        ],
+        "oneActionForToday": "Remove one thing from your life — a habit, a commitment, an object — that you did not choose and no longer want to carry.",
+        "closingLine": "Something in you already knows what you are reaching toward.",
+        "symbolMeta": {
+          "id": "garden",
+          "names": {
+            "en": "Garden",
+            "zh": "花园"
+          }
+        }
+      }
+    },
+    {
+      "topic": "love",
+      "emotion": "confused",
+      "symbolId": "garden",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "对爱情感到困惑，往往意味着你内心有不止一种真实的感受。不必将一切归结为一个答案。你可以同时承载其中的美好，与其中的不确定。",
+        "symbolMeaning": "关系是一个花园。你们一起种下了什么，你们每个人对它的照料都在贡献什么？",
+        "possibleBlindSpot": "困惑时，很容易认为一切都是不确定的。但有些事情并非不确定——它们只是让人不舒服，难以承认。你已经知道什么了，哪怕这个认知并不方便？",
+        "reflectionQuestions": [
+          "你生命中什么在真正繁盛——你成功地培育了什么？",
+          "你一直在忽视什么，而它需要在为时太晚之前得到关注？",
+          "有什么是别人种在你身上的，而你一直出于习惯而非选择在照料它？"
+        ],
+        "oneActionForToday": "从你的生活中移除一样东西——一个习惯、一个承诺、一个物品——你没有选择它，也不再想承载它。",
+        "closingLine": "你内心深处，已经知道自己在朝什么靠近。",
+        "symbolMeta": {
+          "id": "garden",
+          "names": {
+            "en": "Garden",
+            "zh": "花园"
+          }
+        }
+      }
+    },
+    {
+      "topic": "love",
+      "emotion": "sad",
+      "symbolId": "bridge",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Sadness in love is not a mistake. It often means something genuinely mattered to you. That matters. Letting yourself feel this is not weakness — it is honest.",
+        "symbolMeaning": "The gap between you and this person can be crossed — but both sides need to be willing. What is your part in the crossing?",
+        "possibleBlindSpot": "Sadness can make the path look blocked when it is actually just different from what you expected. What would it mean to grieve what you hoped for, and then continue?",
+        "reflectionQuestions": [
+          "What is the gap you most want to cross — and what would the other side look like?",
+          "Who is willing to meet you in the middle?",
+          "Are you waiting for the bridge to appear, or are you the one who needs to begin building it?"
+        ],
+        "oneActionForToday": "Identify one concrete step that moves you from where you are to where you want to be.",
+        "closingLine": "Something in you already knows what you are reaching toward.",
+        "symbolMeta": {
+          "id": "bridge",
+          "names": {
+            "en": "Bridge",
+            "zh": "桥"
+          }
+        }
+      }
+    },
+    {
+      "topic": "love",
+      "emotion": "sad",
+      "symbolId": "bridge",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "在爱中感到悲伤，不是一种错误。它往往意味着某件事对你真的很重要。这本身就很重要。允许自己感受这份悲伤，不是软弱——而是诚实。",
+        "symbolMeaning": "你和这个人之间的鸿沟可以跨越——但双方都需要愿意。你在这次跨越中的部分是什么？",
+        "possibleBlindSpot": "悲伤会让前路看起来像是被堵住了，而实际上它只是和你预期的不同。如果你能哀悼你所期待的那个未来，然后继续前行，那意味着什么？",
+        "reflectionQuestions": [
+          "你最想跨越的鸿沟是什么——另一边会是什么样子？",
+          "谁愿意在中间迎接你？",
+          "你在等待桥出现，还是你是那个需要开始建造它的人？"
+        ],
+        "oneActionForToday": "找出一个具体的步骤，将你从现在的地方移向你想去的地方。",
+        "closingLine": "你内心深处，已经知道自己在朝什么靠近。",
+        "symbolMeta": {
+          "id": "bridge",
+          "names": {
+            "en": "Bridge",
+            "zh": "桥"
+          }
+        }
+      }
+    },
+    {
+      "topic": "love",
+      "emotion": "hopeful",
+      "symbolId": "stone",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Hope in love is a fragile, tender thing — and that is exactly why it is worth paying attention to. Something in you still believes something here is worth reaching toward.",
+        "symbolMeaning": "What in this relationship is truly solid, and what are you trying to make solid that is not?",
+        "possibleBlindSpot": "Hope is most useful when it is grounded in something real. What is your hope actually based on? What evidence supports it, and what are you choosing not to see?",
+        "reflectionQuestions": [
+          "What is truly immovable in this situation — and is that immovability a resource or a limitation?",
+          "Are you confusing stubbornness with stability?",
+          "What is one solid, reliable thing you can stand on right now?"
+        ],
+        "oneActionForToday": "Do one thing today that reflects your actual values, not your fears.",
+        "closingLine": "Something in you already knows what you are reaching toward.",
+        "symbolMeta": {
+          "id": "stone",
+          "names": {
+            "en": "Stone",
+            "zh": "石"
+          }
+        }
+      }
+    },
+    {
+      "topic": "love",
+      "emotion": "hopeful",
+      "symbolId": "stone",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "在爱情中的希望是脆弱而温柔的——正因如此，它值得认真对待。你内心深处仍然相信，这里有些东西值得去追寻。",
+        "symbolMeaning": "这段关系中什么是真正稳固的，你又在试图使什么变得稳固而它实际上并不稳固？",
+        "possibleBlindSpot": "当希望植根于真实的土壤时，它才最有价值。你的希望究竟建立在什么之上？有什么证据支持它，又有什么是你选择不去看的？",
+        "reflectionQuestions": [
+          "这个情况中什么是真正不可移动的——那种不可移动是一种资源还是一种限制？",
+          "你是否在将固执与稳定性混淆？",
+          "此刻你能站立在其上的一件稳固、可靠的事情是什么？"
+        ],
+        "oneActionForToday": "今天做一件反映你真实价值观的事，而不是你的恐惧。",
+        "closingLine": "你内心深处，已经知道自己在朝什么靠近。",
+        "symbolMeta": {
+          "id": "stone",
+          "names": {
+            "en": "Stone",
+            "zh": "石"
+          }
+        }
+      }
+    },
+    {
+      "topic": "love",
+      "emotion": "stuck",
+      "symbolId": "river",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Feeling stuck in love often means you can see the problem clearly but cannot yet see how to move. That clarity is not nothing. It is the first condition for movement.",
+        "symbolMeaning": "This relationship is not static. Something has shifted or is shifting. Notice what you want to move toward — not just what you are moving away from.",
+        "possibleBlindSpot": "Feeling stuck is sometimes a signal that you are trying to swim when you could float. Some situations resolve better when you stop actively trying to push them and let them move on their own.",
+        "reflectionQuestions": [
+          "What are you moving away from — and is that the same as what you want to move toward?",
+          "What would it feel like to stop trying to control the speed of this?",
+          "Where in your life are you fighting the current?"
+        ],
+        "oneActionForToday": "Tell one trusted person one thing you have been keeping to yourself.",
+        "closingLine": "Something in you already knows what you are reaching toward.",
+        "symbolMeta": {
+          "id": "river",
+          "names": {
+            "en": "River",
+            "zh": "河流"
+          }
+        }
+      }
+    },
+    {
+      "topic": "love",
+      "emotion": "stuck",
+      "symbolId": "river",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "在爱情中感到卡住，往往意味着你能清楚地看到问题所在，却还看不到如何前行。这份清醒不是没有意义的——它是迈动脚步的第一个条件。",
+        "symbolMeaning": "这段关系并非静止不动。某些东西已经改变，或正在改变。留意你想靠近什么——而不仅仅是你在远离什么。",
+        "possibleBlindSpot": "感到卡住，有时是一个信号：你在奋力游泳，但其实可以漂浮。有些情况在你停止主动推进、让它们自行移动时，反而会更好地解决。",
+        "reflectionQuestions": [
+          "你在远离什么——那与你想要靠近的，是同一件事吗？",
+          "如果停止控制这件事的速度，会是什么感觉？",
+          "你生命中的哪个地方，正在逆流而行？"
+        ],
+        "oneActionForToday": "告诉一个你信任的人，一件你一直放在心里的事。",
+        "closingLine": "你内心深处，已经知道自己在朝什么靠近。",
+        "symbolMeta": {
+          "id": "river",
+          "names": {
+            "en": "River",
+            "zh": "河流"
+          }
+        }
+      }
+    },
+    {
+      "topic": "career",
+      "emotion": "anxious",
+      "symbolId": "thread",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "When we are anxious about work, we often feel like we are the problem. That framing makes it hard to see clearly. Your anxiety is a signal — not a verdict.",
+        "symbolMeaning": "There is a thread of interest, skill, or meaning running through your work history. What is it pointing toward?",
+        "possibleBlindSpot": "Anxiety about the path often looks like perfectionism about the destination. You may be waiting for the route to be completely clear before you take even one step. The path is made by walking.",
+        "reflectionQuestions": [
+          "What pattern do you notice running through this situation — one you have seen before?",
+          "Is this thread connecting you to something meaningful, or is it a loop you want to break?",
+          "If you could see your life from the outside, what story would the thread tell?"
+        ],
+        "oneActionForToday": "Choose one small action that interrupts the pattern — or one that continues it intentionally.",
+        "closingLine": "Your work is not separate from who you are becoming.",
+        "symbolMeta": {
+          "id": "thread",
+          "names": {
+            "en": "Thread",
+            "zh": "线"
+          }
+        }
+      }
+    },
+    {
+      "topic": "career",
+      "emotion": "anxious",
+      "symbolId": "thread",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "对事业感到焦虑，常常让人觉得问题出在自己身上。这种视角反而让人难以看清真相。焦虑是一个信号，而不是一个判决。",
+        "symbolMeaning": "在你的工作经历中有一条兴趣、技能或意义的线索。它指向哪里？",
+        "possibleBlindSpot": "对道路的焦虑，往往以对目的地的完美主义形式出现。你也许在等待整条路都清晰可见，才肯迈出第一步。但道路是走出来的。",
+        "reflectionQuestions": [
+          "你注意到贯穿这个情况的什么模式——一个你以前见过的？",
+          "这条线将你连接到有意义的东西，还是你想打破的一个循环？",
+          "如果你能从外部看见你的生命，这条线会讲述什么故事？"
+        ],
+        "oneActionForToday": "选择一个能打断这个模式的小行动——或者一个有意延续它的行动。",
+        "closingLine": "你的工作，与你正在成为的那个人，从来都不是分开的。",
+        "symbolMeta": {
+          "id": "thread",
+          "names": {
+            "en": "Thread",
+            "zh": "线"
+          }
+        }
+      }
+    },
+    {
+      "topic": "career",
+      "emotion": "confused",
+      "symbolId": "stone",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "When work feels unclear, it can be tempting to force a decision. But not all career confusion is a problem — some of it is you gathering information before you are ready to act.",
+        "symbolMeaning": "What is the foundation of your work — the real, lasting thing you bring — separate from titles, income, or external validation?",
+        "possibleBlindSpot": "When confused, it is tempting to decide that everything is uncertain. But some things are not uncertain — they are just uncomfortable to acknowledge. What do you already know, even if it is inconvenient?",
+        "reflectionQuestions": [
+          "What is truly immovable in this situation — and is that immovability a resource or a limitation?",
+          "Are you confusing stubbornness with stability?",
+          "What is one solid, reliable thing you can stand on right now?"
+        ],
+        "oneActionForToday": "Write down three things that you know for certain — about yourself, your values, or your situation. These are your stones.",
+        "closingLine": "Your work is not separate from who you are becoming.",
+        "symbolMeta": {
+          "id": "stone",
+          "names": {
+            "en": "Stone",
+            "zh": "石"
+          }
+        }
+      }
+    },
+    {
+      "topic": "career",
+      "emotion": "confused",
+      "symbolId": "stone",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "当工作方向感到模糊，很容易想要强行做出选择。但并非所有职业上的困惑都是问题——有时这只是在你准备好行动之前，你正在收集信息。",
+        "symbolMeaning": "你工作的基础是什么——你真正持久地带来的东西——独立于头衔、收入或外部认可之外？",
+        "possibleBlindSpot": "困惑时，很容易认为一切都是不确定的。但有些事情并非不确定——它们只是让人不舒服，难以承认。你已经知道什么了，哪怕这个认知并不方便？",
+        "reflectionQuestions": [
+          "这个情况中什么是真正不可移动的——那种不可移动是一种资源还是一种限制？",
+          "你是否在将固执与稳定性混淆？",
+          "此刻你能站立在其上的一件稳固、可靠的事情是什么？"
+        ],
+        "oneActionForToday": "写下三件你确定的事情——关于你自己、你的价值观或你的情况。这些是你的石头。",
+        "closingLine": "你的工作，与你正在成为的那个人，从来都不是分开的。",
+        "symbolMeta": {
+          "id": "stone",
+          "names": {
+            "en": "Stone",
+            "zh": "石"
+          }
+        }
+      }
+    },
+    {
+      "topic": "career",
+      "emotion": "sad",
+      "symbolId": "bridge",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Sadness about your work can mean you have given something meaningful to it and felt that go unrecognized — or that something you cared about has ended. That is a real loss.",
+        "symbolMeaning": "A collaboration, a relationship, or a transition is possible. What would it take to build or use the bridge in front of you?",
+        "possibleBlindSpot": "Sadness can make the path look blocked when it is actually just different from what you expected. What would it mean to grieve what you hoped for, and then continue?",
+        "reflectionQuestions": [
+          "What is the gap you most want to cross — and what would the other side look like?",
+          "Who is willing to meet you in the middle?",
+          "Are you waiting for the bridge to appear, or are you the one who needs to begin building it?"
+        ],
+        "oneActionForToday": "Write down what crossing this bridge would actually change in your daily life.",
+        "closingLine": "Your work is not separate from who you are becoming.",
+        "symbolMeta": {
+          "id": "bridge",
+          "names": {
+            "en": "Bridge",
+            "zh": "桥"
+          }
+        }
+      }
+    },
+    {
+      "topic": "career",
+      "emotion": "sad",
+      "symbolId": "bridge",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "对工作感到悲伤，可能意味着你曾将某些有意义的事情投入其中，却感到没有被认可——或者你所在乎的某些东西已经结束了。那是一种真实的失去。",
+        "symbolMeaning": "一次合作、一段关系或一次过渡是可能的。建立或使用你面前的桥梁，需要什么？",
+        "possibleBlindSpot": "悲伤会让前路看起来像是被堵住了，而实际上它只是和你预期的不同。如果你能哀悼你所期待的那个未来，然后继续前行，那意味着什么？",
+        "reflectionQuestions": [
+          "你最想跨越的鸿沟是什么——另一边会是什么样子？",
+          "谁愿意在中间迎接你？",
+          "你在等待桥出现，还是你是那个需要开始建造它的人？"
+        ],
+        "oneActionForToday": "写下跨越这座桥，实际上会改变你日常生活的什么。",
+        "closingLine": "你的工作，与你正在成为的那个人，从来都不是分开的。",
+        "symbolMeta": {
+          "id": "bridge",
+          "names": {
+            "en": "Bridge",
+            "zh": "桥"
+          }
+        }
+      }
+    },
+    {
+      "topic": "career",
+      "emotion": "hopeful",
+      "symbolId": "mirror",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Hope about work is not naivety. It is your sense that something better is possible. That sense is information — but it is also something you need to keep protecting.",
+        "symbolMeaning": "How you see your colleagues and your workplace may reflect your own anxieties and desires more than the actual situation.",
+        "possibleBlindSpot": "Hope is most useful when it is grounded in something real. What is your hope actually based on? What evidence supports it, and what are you choosing not to see?",
+        "reflectionQuestions": [
+          "What about this situation is actually about the other person — and what is about you?",
+          "Is your current self-perception accurate, or is it filtered through fear?",
+          "Who knows you well enough to offer you a clear, loving reflection?"
+        ],
+        "oneActionForToday": "Look at your recent decisions in this area — do they match who you want to be?",
+        "closingLine": "Your work is not separate from who you are becoming.",
+        "symbolMeta": {
+          "id": "mirror",
+          "names": {
+            "en": "Mirror",
+            "zh": "镜子"
+          }
+        }
+      }
+    },
+    {
+      "topic": "career",
+      "emotion": "hopeful",
+      "symbolId": "mirror",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "对事业抱有希望，并不是天真。那是你相信更好的事情是可能的一种感觉。这种感觉本身是有价值的信息——但也需要你去守护它。",
+        "symbolMeaning": "你对同事和工作环境的看法，可能更多地反映了你自己的焦虑和渴望，而非实际情况。",
+        "possibleBlindSpot": "当希望植根于真实的土壤时，它才最有价值。你的希望究竟建立在什么之上？有什么证据支持它，又有什么是你选择不去看的？",
+        "reflectionQuestions": [
+          "这件事中，哪些部分真的是关于对方的——哪些部分其实是关于你的？",
+          "你目前对自己的认知是准确的，还是经过了恐惧的过滤？",
+          "谁足够了解你，能够给你一个清晰而充满爱的镜像？"
+        ],
+        "oneActionForToday": "回顾你在这方面最近的决定——它们和你想成为的那个人一致吗？",
+        "closingLine": "你的工作，与你正在成为的那个人，从来都不是分开的。",
+        "symbolMeta": {
+          "id": "mirror",
+          "names": {
+            "en": "Mirror",
+            "zh": "镜子"
+          }
+        }
+      }
+    },
+    {
+      "topic": "career",
+      "emotion": "stuck",
+      "symbolId": "mist",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Feeling stuck at work can mean you are between where you were and where you want to go. That space is real — and it is not permanent. But it does require something of you.",
+        "symbolMeaning": "You cannot see all the variables. That is normal. You do not need to see them all. Focus on what you can control today.",
+        "possibleBlindSpot": "Feeling stuck is sometimes a signal that you are trying to swim when you could float. Some situations resolve better when you stop actively trying to push them and let them move on their own.",
+        "reflectionQuestions": [
+          "What would you do if you accepted that the uncertainty is not going to resolve before you need to act?",
+          "Are you waiting for clarity, or are you avoiding looking at what you might see?",
+          "What can you control in this situation, right now, regardless of what remains unclear?"
+        ],
+        "oneActionForToday": "Set a date when you will make a decision even if the mist has not fully cleared.",
+        "closingLine": "Your work is not separate from who you are becoming.",
+        "symbolMeta": {
+          "id": "mist",
+          "names": {
+            "en": "Mist",
+            "zh": "迷雾"
+          }
+        }
+      }
+    },
+    {
+      "topic": "career",
+      "emotion": "stuck",
+      "symbolId": "mist",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "在事业上感到卡住，可能意味着你正处于你所在之处与你想去之处的中间地带。这个空间是真实的——但它并不是永久的。只是它确实需要你做些什么。",
+        "symbolMeaning": "你看不到所有的变量。这是正常的。你不需要看到全部。专注在你今天能够控制的事情上。",
+        "possibleBlindSpot": "感到卡住，有时是一个信号：你在奋力游泳，但其实可以漂浮。有些情况在你停止主动推进、让它们自行移动时，反而会更好地解决。",
+        "reflectionQuestions": [
+          "如果你接受了不确定性在你需要行动之前不会消散，你会怎么做？",
+          "你在等待清晰，还是在回避直视你可能会看到的东西？",
+          "在这个情况中，此刻你能控制什么——无论有多少仍然不清晰？"
+        ],
+        "oneActionForToday": "设定一个日期，届时即使迷雾尚未完全散去，你也会做出决定。",
+        "closingLine": "你的工作，与你正在成为的那个人，从来都不是分开的。",
+        "symbolMeta": {
+          "id": "mist",
+          "names": {
+            "en": "Mist",
+            "zh": "迷雾"
+          }
+        }
+      }
+    },
+    {
+      "topic": "money",
+      "emotion": "anxious",
+      "symbolId": "thread",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Money anxiety is exhausting because it feels endless. But financial worry and actual financial danger are not the same thing. What you know for certain, and what you are imagining, may be different.",
+        "symbolMeaning": "Your financial patterns are a thread. Notice what keeps repeating and ask whether that repetition is serving you.",
+        "possibleBlindSpot": "Anxiety about the path often looks like perfectionism about the destination. You may be waiting for the route to be completely clear before you take even one step. The path is made by walking.",
+        "reflectionQuestions": [
+          "What pattern do you notice running through this situation — one you have seen before?",
+          "Is this thread connecting you to something meaningful, or is it a loop you want to break?",
+          "If you could see your life from the outside, what story would the thread tell?"
+        ],
+        "oneActionForToday": "Write one sentence describing the pattern you see. Is it one you want to continue?",
+        "closingLine": "What you tend to consistently, tends to grow.",
+        "symbolMeta": {
+          "id": "thread",
+          "names": {
+            "en": "Thread",
+            "zh": "线"
+          }
+        }
+      }
+    },
+    {
+      "topic": "money",
+      "emotion": "anxious",
+      "symbolId": "thread",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "金钱的焦虑让人疲惫，因为它似乎没有尽头。但对财务的担心与真实的困境并不总是相同的。你所确知的，与你想象中的，可能是两回事。",
+        "symbolMeaning": "你的财务模式是一条线。留意什么不断重复，并问问那个重复是否在为你服务。",
+        "possibleBlindSpot": "对道路的焦虑，往往以对目的地的完美主义形式出现。你也许在等待整条路都清晰可见，才肯迈出第一步。但道路是走出来的。",
+        "reflectionQuestions": [
+          "你注意到贯穿这个情况的什么模式——一个你以前见过的？",
+          "这条线将你连接到有意义的东西，还是你想打破的一个循环？",
+          "如果你能从外部看见你的生命，这条线会讲述什么故事？"
+        ],
+        "oneActionForToday": "写一句话描述你看到的模式。那是你想继续的吗？",
+        "closingLine": "你持续用心对待的，终会生长。",
+        "symbolMeta": {
+          "id": "thread",
+          "names": {
+            "en": "Thread",
+            "zh": "线"
+          }
+        }
+      }
+    },
+    {
+      "topic": "money",
+      "emotion": "confused",
+      "symbolId": "seed",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Financial confusion often means the picture is genuinely incomplete. Avoidance makes it worse. One honest look at the actual numbers tends to simplify things.",
+        "symbolMeaning": "Financial change is often slow and invisible at first. Are there small consistent actions you have been taking that deserve more credit?",
+        "possibleBlindSpot": "When confused, it is tempting to decide that everything is uncertain. But some things are not uncertain — they are just uncomfortable to acknowledge. What do you already know, even if it is inconvenient?",
+        "reflectionQuestions": [
+          "What have you already started that deserves more patience from you?",
+          "Are you expecting to see results from work that has only just begun?",
+          "What conditions does the seed need — what do you need — in order to grow?"
+        ],
+        "oneActionForToday": "Create one condition that supports growth: more rest, one conversation, one resource.",
+        "closingLine": "What you tend to consistently, tends to grow.",
+        "symbolMeta": {
+          "id": "seed",
+          "names": {
+            "en": "Seed",
+            "zh": "种子"
+          }
+        }
+      }
+    },
+    {
+      "topic": "money",
+      "emotion": "confused",
+      "symbolId": "seed",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "对财务感到困惑，往往意味着画面确实是不完整的。回避只会让它更复杂。诚实地看一眼实际数字，往往能让事情变得清晰一些。",
+        "symbolMeaning": "财务变化一开始往往是缓慢且无形的。你一直在做的那些小而持续的行动，是否值得更多的认可？",
+        "possibleBlindSpot": "困惑时，很容易认为一切都是不确定的。但有些事情并非不确定——它们只是让人不舒服，难以承认。你已经知道什么了，哪怕这个认知并不方便？",
+        "reflectionQuestions": [
+          "你已经开始的什么事情，值得你给予更多的耐心？",
+          "你是否在期待从刚刚开始的事情中看到结果？",
+          "这颗种子需要什么条件——你需要什么——才能生长？"
+        ],
+        "oneActionForToday": "创造一个支持成长的条件：更多的休息、一次对话、一种资源。",
+        "closingLine": "你持续用心对待的，终会生长。",
+        "symbolMeta": {
+          "id": "seed",
+          "names": {
+            "en": "Seed",
+            "zh": "种子"
+          }
+        }
+      }
+    },
+    {
+      "topic": "money",
+      "emotion": "sad",
+      "symbolId": "mist",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Financial sadness often carries shame underneath it. The sadness is about the situation. The shame is a story you may have been told about what it means — and that story may not be true.",
+        "symbolMeaning": "Financial mist often lifts when you look at the actual numbers. Avoidance makes it thicker. One honest look can thin it considerably.",
+        "possibleBlindSpot": "Sadness sometimes keeps you in motion — busy, managing, surviving — when what you actually need is to stop and let yourself feel the weight of what has happened. Are you moving through the sadness, or past it?",
+        "reflectionQuestions": [
+          "What would you do if you accepted that the uncertainty is not going to resolve before you need to act?",
+          "Are you waiting for clarity, or are you avoiding looking at what you might see?",
+          "What can you control in this situation, right now, regardless of what remains unclear?"
+        ],
+        "oneActionForToday": "Do one small thing today that is within your control, related to this situation.",
+        "closingLine": "What you tend to consistently, tends to grow.",
+        "symbolMeta": {
+          "id": "mist",
+          "names": {
+            "en": "Mist",
+            "zh": "迷雾"
+          }
+        }
+      }
+    },
+    {
+      "topic": "money",
+      "emotion": "sad",
+      "symbolId": "mist",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "对财务感到悲伤，往往在悲伤之下藏着羞愧。悲伤是关于处境的。羞愧则是关于它意味着什么的一种叙事——而那种叙事未必是真的。",
+        "symbolMeaning": "财务的迷雾，往往在你直视实际数字时就散了。回避只会让它更浓。诚实地看一眼，往往能使它相当程度地变薄。",
+        "possibleBlindSpot": "悲伤有时让你持续运转——忙碌、应对、勉强撑着——而你真正需要的，是停下来，让自己感受所发生之事的重量。你是在穿越悲伤，还是在绕开它？",
+        "reflectionQuestions": [
+          "如果你接受了不确定性在你需要行动之前不会消散，你会怎么做？",
+          "你在等待清晰，还是在回避直视你可能会看到的东西？",
+          "在这个情况中，此刻你能控制什么——无论有多少仍然不清晰？"
+        ],
+        "oneActionForToday": "今天做一件与这件事相关、在你掌控之内的小事。",
+        "closingLine": "你持续用心对待的，终会生长。",
+        "symbolMeta": {
+          "id": "mist",
+          "names": {
+            "en": "Mist",
+            "zh": "迷雾"
+          }
+        }
+      }
+    },
+    {
+      "topic": "money",
+      "emotion": "hopeful",
+      "symbolId": "lantern",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "A sense of hope about money often means you are beginning to see a path — or you are choosing to look for one. Notice what that path requires of you.",
+        "symbolMeaning": "Financial clarity often comes one decision at a time, not all at once. What one money decision can you make with the information you have today?",
+        "possibleBlindSpot": "When we are hopeful about a direction, we sometimes move forward without noticing that the path has changed. Is the direction you are heading still the direction you actually want to go?",
+        "reflectionQuestions": [
+          "What is the one next step you can already see clearly, even if the rest is uncertain?",
+          "Who or what is the lantern in your life right now — offering you small but real direction?",
+          "Are you asking for full illumination when a single step forward would be enough?"
+        ],
+        "oneActionForToday": "Write down the one next action that you already know you need to take — the one you have been postponing.",
+        "closingLine": "What you tend to consistently, tends to grow.",
+        "symbolMeta": {
+          "id": "lantern",
+          "names": {
+            "en": "Lantern",
+            "zh": "灯笼"
+          }
+        }
+      }
+    },
+    {
+      "topic": "money",
+      "emotion": "hopeful",
+      "symbolId": "lantern",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "对财务感到充满希望，往往意味着你开始看到一条出路——或者你选择去寻找它。留意这条路需要你付出什么。",
+        "symbolMeaning": "财务上的清晰往往是一个决定一个决定地到来，而不是一下子全部到来。你今天能用现有信息做出的一个财务决定是什么？",
+        "possibleBlindSpot": "当我们对某个方向充满希望时，有时会向前迈进，却没有注意到道路已经改变了。你正前进的方向，还是你真正想去的方向吗？",
+        "reflectionQuestions": [
+          "你已经能够清晰看见的下一步是什么，哪怕其余的仍然不清晰？",
+          "此刻你生命中的灯笼是谁或什么——为你提供微小却真实的方向？",
+          "你是否在等待全部的光明，而其实迈出一步已经足够？"
+        ],
+        "oneActionForToday": "写下你已经知道需要去做的下一个行动——那个你一直在推迟的行动。",
+        "closingLine": "你持续用心对待的，终会生长。",
+        "symbolMeta": {
+          "id": "lantern",
+          "names": {
+            "en": "Lantern",
+            "zh": "灯笼"
+          }
+        }
+      }
+    },
+    {
+      "topic": "money",
+      "emotion": "stuck",
+      "symbolId": "bridge",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Feeling stuck financially often means one decision or one number is blocking the whole view. Sometimes the stuck feeling lifts when you look at just the next one thing.",
+        "symbolMeaning": "Financial bridges often look like help, education, or planning. Is there a resource you have not asked for or used?",
+        "possibleBlindSpot": "Feeling stuck on a path sometimes means the path needs to be made, not found. What would the first small step of building it look like?",
+        "reflectionQuestions": [
+          "What is the gap you most want to cross — and what would the other side look like?",
+          "Who is willing to meet you in the middle?",
+          "Are you waiting for the bridge to appear, or are you the one who needs to begin building it?"
+        ],
+        "oneActionForToday": "Identify one concrete step that moves you from where you are to where you want to be.",
+        "closingLine": "What you tend to consistently, tends to grow.",
+        "symbolMeta": {
+          "id": "bridge",
+          "names": {
+            "en": "Bridge",
+            "zh": "桥"
+          }
+        }
+      }
+    },
+    {
+      "topic": "money",
+      "emotion": "stuck",
+      "symbolId": "bridge",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "在财务上感到卡住，往往意味着某一个决定或某一个数字阻挡了整个视野。有时，当你只去看下一件最小的事情时，那种卡住的感觉就会松动。",
+        "symbolMeaning": "财务上的桥梁往往看起来像帮助、教育或计划。有没有你还没有请求或使用的资源？",
+        "possibleBlindSpot": "在道路上感到卡住，有时意味着这条路需要被创造出来，而不是被找到。建造它的第一小步，会是什么样子？",
+        "reflectionQuestions": [
+          "你最想跨越的鸿沟是什么——另一边会是什么样子？",
+          "谁愿意在中间迎接你？",
+          "你在等待桥出现，还是你是那个需要开始建造它的人？"
+        ],
+        "oneActionForToday": "找出一个具体的步骤，将你从现在的地方移向你想去的地方。",
+        "closingLine": "你持续用心对待的，终会生长。",
+        "symbolMeta": {
+          "id": "bridge",
+          "names": {
+            "en": "Bridge",
+            "zh": "桥"
+          }
+        }
+      }
+    },
+    {
+      "topic": "family",
+      "emotion": "anxious",
+      "symbolId": "garden",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Anxiety in family situations often comes from feeling responsible for things outside your control. You cannot hold everyone together through sheer worry.",
+        "symbolMeaning": "Your family of origin planted many things in you — beliefs, patterns, fears, gifts. Which of these plants do you want to keep, and which do you want to remove?",
+        "possibleBlindSpot": "Anxiety can make solid ground feel unstable. You may currently be standing on more than you think — but anxiety makes it hard to trust what is already there. Before looking for more, notice what is already steady.",
+        "reflectionQuestions": [
+          "What in your life is genuinely flourishing — what have you successfully grown?",
+          "What have you been neglecting that needs attention before it is too late to recover?",
+          "What was planted in you by others that you have been tending out of habit rather than choice?"
+        ],
+        "oneActionForToday": "Remove one thing from your life — a habit, a commitment, an object — that you did not choose and no longer want to carry.",
+        "closingLine": "You are shaped by your family — and you also shape it.",
+        "symbolMeta": {
+          "id": "garden",
+          "names": {
+            "en": "Garden",
+            "zh": "花园"
+          }
+        }
+      }
+    },
+    {
+      "topic": "family",
+      "emotion": "anxious",
+      "symbolId": "garden",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "在家庭关系中感到焦虑，往往是因为觉得自己要为无法掌控的事情负责。靠单纯的担忧，是撑不起一个家的。",
+        "symbolMeaning": "你的原生家庭在你身上种下了很多东西——信仰、模式、恐惧、礼物。你想留住哪些植物，想移除哪些？",
+        "possibleBlindSpot": "焦虑会让坚实的土地感觉摇摇欲坠。你目前的立足点，也许比你意识到的更稳——但焦虑让人很难信任已有的东西。在寻找更多之前，先留意那些已经稳定的事物。",
+        "reflectionQuestions": [
+          "你生命中什么在真正繁盛——你成功地培育了什么？",
+          "你一直在忽视什么，而它需要在为时太晚之前得到关注？",
+          "有什么是别人种在你身上的，而你一直出于习惯而非选择在照料它？"
+        ],
+        "oneActionForToday": "从你的生活中移除一样东西——一个习惯、一个承诺、一个物品——你没有选择它，也不再想承载它。",
+        "closingLine": "你被家庭塑造，同时你也在塑造着它。",
+        "symbolMeta": {
+          "id": "garden",
+          "names": {
+            "en": "Garden",
+            "zh": "花园"
+          }
+        }
+      }
+    },
+    {
+      "topic": "family",
+      "emotion": "confused",
+      "symbolId": "lantern",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Family confusion is often a sign that the rules have changed — that something that used to be clear no longer is. That is not a personal failure. Families shift.",
+        "symbolMeaning": "In family relationships, being the one who holds the lantern — who stays steady — is a kind of leadership. You may already be doing this.",
+        "possibleBlindSpot": "Confusion about which direction to take can sometimes be confusion about what you actually want — not about which option is better. What would you choose if you stopped trying to find the \"right\" answer?",
+        "reflectionQuestions": [
+          "What is the one next step you can already see clearly, even if the rest is uncertain?",
+          "Who or what is the lantern in your life right now — offering you small but real direction?",
+          "Are you asking for full illumination when a single step forward would be enough?"
+        ],
+        "oneActionForToday": "Create one small source of light or warmth in your environment today (a candle, a lamp, time outside).",
+        "closingLine": "You are shaped by your family — and you also shape it.",
+        "symbolMeta": {
+          "id": "lantern",
+          "names": {
+            "en": "Lantern",
+            "zh": "灯笼"
+          }
+        }
+      }
+    },
+    {
+      "topic": "family",
+      "emotion": "confused",
+      "symbolId": "lantern",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "家庭关系中的困惑，往往是规则变化了的信号——曾经清晰的事情不再清晰了。这不是你个人的失败。家庭本就会改变。",
+        "symbolMeaning": "在家庭关系中，成为那个举着灯笼的人——保持稳定的人——是一种领导力。你也许已经在这样做了。",
+        "possibleBlindSpot": "对方向感到困惑，有时其实是对自己真正想要什么感到困惑——而不是哪个选项更好的问题。如果你停止寻找\"正确\"答案，你会选择什么？",
+        "reflectionQuestions": [
+          "你已经能够清晰看见的下一步是什么，哪怕其余的仍然不清晰？",
+          "此刻你生命中的灯笼是谁或什么——为你提供微小却真实的方向？",
+          "你是否在等待全部的光明，而其实迈出一步已经足够？"
+        ],
+        "oneActionForToday": "今天在你的环境中创造一个小小的光源或温暖（一根蜡烛、一盏灯、在户外的时间）。",
+        "closingLine": "你被家庭塑造，同时你也在塑造着它。",
+        "symbolMeta": {
+          "id": "lantern",
+          "names": {
+            "en": "Lantern",
+            "zh": "灯笼"
+          }
+        }
+      }
+    },
+    {
+      "topic": "family",
+      "emotion": "sad",
+      "symbolId": "river",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Sadness in family relationships often comes from loving people who cannot always meet you where you are. That love is real, even when the gap feels wide.",
+        "symbolMeaning": "Family systems move slowly but they do move. You do not have to fix everything. What one thing can you allow to flow more freely?",
+        "possibleBlindSpot": "Sadness sometimes keeps you in motion — busy, managing, surviving — when what you actually need is to stop and let yourself feel the weight of what has happened. Are you moving through the sadness, or past it?",
+        "reflectionQuestions": [
+          "What are you moving away from — and is that the same as what you want to move toward?",
+          "What would it feel like to stop trying to control the speed of this?",
+          "Where in your life are you fighting the current?"
+        ],
+        "oneActionForToday": "Tell one trusted person one thing you have been keeping to yourself.",
+        "closingLine": "You are shaped by your family — and you also shape it.",
+        "symbolMeta": {
+          "id": "river",
+          "names": {
+            "en": "River",
+            "zh": "河流"
+          }
+        }
+      }
+    },
+    {
+      "topic": "family",
+      "emotion": "sad",
+      "symbolId": "river",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "在家庭关系中感到悲伤，往往来自爱着那些无法总是理解你的人。那份爱是真实的，即使隔阂有时感觉很大。",
+        "symbolMeaning": "家庭系统移动得很慢，但它确实在移动。你不必修复一切。有什么一件事，是你可以让它更自由地流动的？",
+        "possibleBlindSpot": "悲伤有时让你持续运转——忙碌、应对、勉强撑着——而你真正需要的，是停下来，让自己感受所发生之事的重量。你是在穿越悲伤，还是在绕开它？",
+        "reflectionQuestions": [
+          "你在远离什么——那与你想要靠近的，是同一件事吗？",
+          "如果停止控制这件事的速度，会是什么感觉？",
+          "你生命中的哪个地方，正在逆流而行？"
+        ],
+        "oneActionForToday": "告诉一个你信任的人，一件你一直放在心里的事。",
+        "closingLine": "你被家庭塑造，同时你也在塑造着它。",
+        "symbolMeta": {
+          "id": "river",
+          "names": {
+            "en": "River",
+            "zh": "河流"
+          }
+        }
+      }
+    },
+    {
+      "topic": "family",
+      "emotion": "hopeful",
+      "symbolId": "garden",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Hope for a family relationship means you have not yet closed the door. That openness is something. It is also a place to look clearly — not just hopefully.",
+        "symbolMeaning": "Your family of origin planted many things in you — beliefs, patterns, fears, gifts. Which of these plants do you want to keep, and which do you want to remove?",
+        "possibleBlindSpot": "Hope is most useful when it is grounded in something real. What is your hope actually based on? What evidence supports it, and what are you choosing not to see?",
+        "reflectionQuestions": [
+          "What in your life is genuinely flourishing — what have you successfully grown?",
+          "What have you been neglecting that needs attention before it is too late to recover?",
+          "What was planted in you by others that you have been tending out of habit rather than choice?"
+        ],
+        "oneActionForToday": "Identify one thing that is dying from neglect. Decide: commit to tending it, or let it go.",
+        "closingLine": "You are shaped by your family — and you also shape it.",
+        "symbolMeta": {
+          "id": "garden",
+          "names": {
+            "en": "Garden",
+            "zh": "花园"
+          }
+        }
+      }
+    },
+    {
+      "topic": "family",
+      "emotion": "hopeful",
+      "symbolId": "garden",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "对家庭关系抱有希望，意味着你还没有关上那扇门。这种开放本身就是一种可能。同时，这也是一个需要清醒看待而不仅仅是充满期待的地方。",
+        "symbolMeaning": "你的原生家庭在你身上种下了很多东西——信仰、模式、恐惧、礼物。你想留住哪些植物，想移除哪些？",
+        "possibleBlindSpot": "当希望植根于真实的土壤时，它才最有价值。你的希望究竟建立在什么之上？有什么证据支持它，又有什么是你选择不去看的？",
+        "reflectionQuestions": [
+          "你生命中什么在真正繁盛——你成功地培育了什么？",
+          "你一直在忽视什么，而它需要在为时太晚之前得到关注？",
+          "有什么是别人种在你身上的，而你一直出于习惯而非选择在照料它？"
+        ],
+        "oneActionForToday": "找出一件正在因忽视而凋零的事情。做决定：承诺照料它，还是让它去。",
+        "closingLine": "你被家庭塑造，同时你也在塑造着它。",
+        "symbolMeta": {
+          "id": "garden",
+          "names": {
+            "en": "Garden",
+            "zh": "花园"
+          }
+        }
+      }
+    },
+    {
+      "topic": "family",
+      "emotion": "stuck",
+      "symbolId": "tide",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Feeling stuck in family dynamics is common — family systems are designed to maintain their shape. But things do shift, even slowly, especially when one person is willing to change.",
+        "symbolMeaning": "Family systems have tides too. The family is in a particular phase. What does this phase ask of you — to move with, or to hold steady against?",
+        "possibleBlindSpot": "Feeling stuck is sometimes a signal that you are trying to swim when you could float. Some situations resolve better when you stop actively trying to push them and let them move on their own.",
+        "reflectionQuestions": [
+          "What force larger than yourself are you currently working with — or against?",
+          "Is this the right moment to act, or is this a moment to rest and let the tide move?",
+          "What are you trying to control that may simply be a natural rhythm?"
+        ],
+        "oneActionForToday": "Observe one pattern in nature today (weather, light, sound) and let it be a reminder that rhythms are real.",
+        "closingLine": "You are shaped by your family — and you also shape it.",
+        "symbolMeta": {
+          "id": "tide",
+          "names": {
+            "en": "Tide",
+            "zh": "潮汐"
+          }
+        }
+      }
+    },
+    {
+      "topic": "family",
+      "emotion": "stuck",
+      "symbolId": "tide",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "在家庭关系中感到卡住是很常见的——家庭系统天生就有维持原状的倾向。但事情确实会改变，哪怕慢慢地——尤其是当其中一个人愿意做出改变的时候。",
+        "symbolMeaning": "家庭系统也有潮汐。家庭正处于某个特定阶段。这个阶段要求你做什么——随之流动，还是稳定地抵御？",
+        "possibleBlindSpot": "感到卡住，有时是一个信号：你在奋力游泳，但其实可以漂浮。有些情况在你停止主动推进、让它们自行移动时，反而会更好地解决。",
+        "reflectionQuestions": [
+          "你目前正在与什么比你更大的力量合作——或者对抗？",
+          "这是行动的正确时机，还是休息、让潮汐移动的时机？",
+          "你试图控制的是什么，而那可能只是一种自然节奏？"
+        ],
+        "oneActionForToday": "今天在自然中观察一个模式（天气、光线、声音），让它提醒你节奏是真实的。",
+        "closingLine": "你被家庭塑造，同时你也在塑造着它。",
+        "symbolMeta": {
+          "id": "tide",
+          "names": {
+            "en": "Tide",
+            "zh": "潮汐"
+          }
+        }
+      }
+    },
+    {
+      "topic": "self",
+      "emotion": "anxious",
+      "symbolId": "stone",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Anxiety about yourself often means you have standards you believe you are not meeting. That gap between where you are and where you think you should be — that is what is causing the pain.",
+        "symbolMeaning": "What do you know about yourself that does not change regardless of circumstances? That is your stone.",
+        "possibleBlindSpot": "Anxiety can make solid ground feel unstable. You may currently be standing on more than you think — but anxiety makes it hard to trust what is already there. Before looking for more, notice what is already steady.",
+        "reflectionQuestions": [
+          "What is truly immovable in this situation — and is that immovability a resource or a limitation?",
+          "Are you confusing stubbornness with stability?",
+          "What is one solid, reliable thing you can stand on right now?"
+        ],
+        "oneActionForToday": "Do one thing today that reflects your actual values, not your fears.",
+        "closingLine": "You are not yet who you will be. That is not a problem. That is the work.",
+        "symbolMeta": {
+          "id": "stone",
+          "names": {
+            "en": "Stone",
+            "zh": "石"
+          }
+        }
+      }
+    },
+    {
+      "topic": "self",
+      "emotion": "anxious",
+      "symbolId": "stone",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "对自我的焦虑，往往来自你所设定的标准——你觉得自己没有达到。那个你所在之处与你认为应该在之处之间的距离，正是让你痛苦的地方。",
+        "symbolMeaning": "无论环境如何都不会改变的关于你自己的东西是什么？那是你的石头。",
+        "possibleBlindSpot": "焦虑会让坚实的土地感觉摇摇欲坠。你目前的立足点，也许比你意识到的更稳——但焦虑让人很难信任已有的东西。在寻找更多之前，先留意那些已经稳定的事物。",
+        "reflectionQuestions": [
+          "这个情况中什么是真正不可移动的——那种不可移动是一种资源还是一种限制？",
+          "你是否在将固执与稳定性混淆？",
+          "此刻你能站立在其上的一件稳固、可靠的事情是什么？"
+        ],
+        "oneActionForToday": "今天做一件反映你真实价值观的事，而不是你的恐惧。",
+        "closingLine": "你还不是未来的那个自己。这不是问题，这正是修行。",
+        "symbolMeta": {
+          "id": "stone",
+          "names": {
+            "en": "Stone",
+            "zh": "石"
+          }
+        }
+      }
+    },
+    {
+      "topic": "self",
+      "emotion": "confused",
+      "symbolId": "garden",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Being confused about yourself is not the same as being lost. You may be between one version of yourself and the next. That in-between space feels disorienting.",
+        "symbolMeaning": "Your inner life is a garden. What practices, relationships, and ideas are you tending? What have you been neglecting?",
+        "possibleBlindSpot": "When confused, it is tempting to decide that everything is uncertain. But some things are not uncertain — they are just uncomfortable to acknowledge. What do you already know, even if it is inconvenient?",
+        "reflectionQuestions": [
+          "What in your life is genuinely flourishing — what have you successfully grown?",
+          "What have you been neglecting that needs attention before it is too late to recover?",
+          "What was planted in you by others that you have been tending out of habit rather than choice?"
+        ],
+        "oneActionForToday": "Identify one relationship, practice, or project that is flourishing. Take one action to explicitly tend it today.",
+        "closingLine": "You are not yet who you will be. That is not a problem. That is the work.",
+        "symbolMeta": {
+          "id": "garden",
+          "names": {
+            "en": "Garden",
+            "zh": "花园"
+          }
+        }
+      }
+    },
+    {
+      "topic": "self",
+      "emotion": "confused",
+      "symbolId": "garden",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "对自己感到困惑，并不等于迷失了方向。也许你正处于某个版本的自己与下一个版本之间。这个过渡的空间，确实让人感到不知所措。",
+        "symbolMeaning": "你的内心生活是一个花园。你在耕耘什么实践、关系和想法？你在忽视什么？",
+        "possibleBlindSpot": "困惑时，很容易认为一切都是不确定的。但有些事情并非不确定——它们只是让人不舒服，难以承认。你已经知道什么了，哪怕这个认知并不方便？",
+        "reflectionQuestions": [
+          "你生命中什么在真正繁盛——你成功地培育了什么？",
+          "你一直在忽视什么，而它需要在为时太晚之前得到关注？",
+          "有什么是别人种在你身上的，而你一直出于习惯而非选择在照料它？"
+        ],
+        "oneActionForToday": "找出一段正在繁盛的关系、实践或项目。今天采取一个行动明确地照料它。",
+        "closingLine": "你还不是未来的那个自己。这不是问题，这正是修行。",
+        "symbolMeta": {
+          "id": "garden",
+          "names": {
+            "en": "Garden",
+            "zh": "花园"
+          }
+        }
+      }
+    },
+    {
+      "topic": "self",
+      "emotion": "sad",
+      "symbolId": "mist",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Sadness about yourself often carries grief — for a version of yourself you expected to be by now, or for something you lost along the way. Grief is not a problem to solve. It is something to move through.",
+        "symbolMeaning": "You are in a period where you do not fully know yourself yet. That is not failure. That is growth in process.",
+        "possibleBlindSpot": "Sadness sometimes keeps you in motion — busy, managing, surviving — when what you actually need is to stop and let yourself feel the weight of what has happened. Are you moving through the sadness, or past it?",
+        "reflectionQuestions": [
+          "What would you do if you accepted that the uncertainty is not going to resolve before you need to act?",
+          "Are you waiting for clarity, or are you avoiding looking at what you might see?",
+          "What can you control in this situation, right now, regardless of what remains unclear?"
+        ],
+        "oneActionForToday": "Write down what you do know — not what is uncertain. Focus on the known for five minutes.",
+        "closingLine": "You are not yet who you will be. That is not a problem. That is the work.",
+        "symbolMeta": {
+          "id": "mist",
+          "names": {
+            "en": "Mist",
+            "zh": "迷雾"
+          }
+        }
+      }
+    },
+    {
+      "topic": "self",
+      "emotion": "sad",
+      "symbolId": "mist",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "对自己感到悲伤，往往带着一种哀悼——哀悼那个你以为自己此时应该成为的样子，或者哀悼途中失去的某些东西。悲伤不是一个需要解决的问题，而是需要穿越的一段路程。",
+        "symbolMeaning": "你正处于一个还不完全了解自己的阶段。这不是失败。这是正在进行中的成长。",
+        "possibleBlindSpot": "悲伤有时让你持续运转——忙碌、应对、勉强撑着——而你真正需要的，是停下来，让自己感受所发生之事的重量。你是在穿越悲伤，还是在绕开它？",
+        "reflectionQuestions": [
+          "如果你接受了不确定性在你需要行动之前不会消散，你会怎么做？",
+          "你在等待清晰，还是在回避直视你可能会看到的东西？",
+          "在这个情况中，此刻你能控制什么——无论有多少仍然不清晰？"
+        ],
+        "oneActionForToday": "写下你确实知道的事——而不是不确定的事。专注于已知的事情五分钟。",
+        "closingLine": "你还不是未来的那个自己。这不是问题，这正是修行。",
+        "symbolMeta": {
+          "id": "mist",
+          "names": {
+            "en": "Mist",
+            "zh": "迷雾"
+          }
+        }
+      }
+    },
+    {
+      "topic": "self",
+      "emotion": "hopeful",
+      "symbolId": "lantern",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Hope about yourself means you still believe change is possible. Hold that belief with care — not as pressure, but as an honest signal that something in you is still reaching forward.",
+        "symbolMeaning": "Your intuition is still working, even when it is quiet. What does your inner sense — not your fear, but your true sense — point toward?",
+        "possibleBlindSpot": "When we are hopeful about a direction, we sometimes move forward without noticing that the path has changed. Is the direction you are heading still the direction you actually want to go?",
+        "reflectionQuestions": [
+          "What is the one next step you can already see clearly, even if the rest is uncertain?",
+          "Who or what is the lantern in your life right now — offering you small but real direction?",
+          "Are you asking for full illumination when a single step forward would be enough?"
+        ],
+        "oneActionForToday": "Before bed, write one thing that went right today, however small.",
+        "closingLine": "You are not yet who you will be. That is not a problem. That is the work.",
+        "symbolMeta": {
+          "id": "lantern",
+          "names": {
+            "en": "Lantern",
+            "zh": "灯笼"
+          }
+        }
+      }
+    },
+    {
+      "topic": "self",
+      "emotion": "hopeful",
+      "symbolId": "lantern",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "对自己抱有希望，意味着你仍然相信改变是可能的。请好好珍惜这份信念——不是作为压力，而是作为一个诚实的信号：你内心深处仍在向前伸展。",
+        "symbolMeaning": "你的直觉仍在工作，即使它是安静的。你内在的感知——不是你的恐惧，而是你真正的感知——在指向哪里？",
+        "possibleBlindSpot": "当我们对某个方向充满希望时，有时会向前迈进，却没有注意到道路已经改变了。你正前进的方向，还是你真正想去的方向吗？",
+        "reflectionQuestions": [
+          "你已经能够清晰看见的下一步是什么，哪怕其余的仍然不清晰？",
+          "此刻你生命中的灯笼是谁或什么——为你提供微小却真实的方向？",
+          "你是否在等待全部的光明，而其实迈出一步已经足够？"
+        ],
+        "oneActionForToday": "睡前，写下今天一件进展顺利的事，哪怕多么微小。",
+        "closingLine": "你还不是未来的那个自己。这不是问题，这正是修行。",
+        "symbolMeta": {
+          "id": "lantern",
+          "names": {
+            "en": "Lantern",
+            "zh": "灯笼"
+          }
+        }
+      }
+    },
+    {
+      "topic": "self",
+      "emotion": "stuck",
+      "symbolId": "door",
+      "locale": "en",
+      "result": {
+        "emotionalMirror": "Feeling stuck as a person often means you are at the edge of something — not at a wall, but at a threshold. The question is not whether movement is possible, but what small movement is available to you right now.",
+        "symbolMeaning": "You are in a period of genuine transition. The version of yourself on the other side of this will be different. That is not a threat — it is an invitation.",
+        "possibleBlindSpot": "Feeling stuck on a path sometimes means the path needs to be made, not found. What would the first small step of building it look like?",
+        "reflectionQuestions": [
+          "What door are you standing in front of — and what are you afraid is on the other side?",
+          "Are you waiting for permission to cross a threshold that only you can give yourself?",
+          "What would you choose if you knew you could not go back?"
+        ],
+        "oneActionForToday": "Name the decision you have been avoiding. Write it down plainly. Decide on a date when you will make it.",
+        "closingLine": "You are not yet who you will be. That is not a problem. That is the work.",
+        "symbolMeta": {
+          "id": "door",
+          "names": {
+            "en": "Door",
+            "zh": "门"
+          }
+        }
+      }
+    },
+    {
+      "topic": "self",
+      "emotion": "stuck",
+      "symbolId": "door",
+      "locale": "zh",
+      "result": {
+        "emotionalMirror": "在自我成长上感到卡住，往往意味着你站在某个边缘——不是一堵墙，而是一道门槛。问题不是前进是否可能，而是此刻对你来说，有哪怕是微小的一步是可以迈出的。",
+        "symbolMeaning": "你正处于一个真实的过渡期。走过这道门的那个你，将会是不同的样子。这不是威胁——这是邀请。",
+        "possibleBlindSpot": "在道路上感到卡住，有时意味着这条路需要被创造出来，而不是被找到。建造它的第一小步，会是什么样子？",
+        "reflectionQuestions": [
+          "你站在哪扇门前——你害怕门的另一边是什么？",
+          "你是否在等待一个许可——而那个许可只有你能给自己？",
+          "如果你知道无法回头，你会做出什么选择？"
+        ],
+        "oneActionForToday": "说出那个你一直在回避的决定。简单地写下来。决定一个你将做出它的日期。",
+        "closingLine": "你还不是未来的那个自己。这不是问题，这正是修行。",
+        "symbolMeta": {
+          "id": "door",
+          "names": {
+            "en": "Door",
+            "zh": "门"
+          }
+        }
+      }
+    }
+  ]
+}

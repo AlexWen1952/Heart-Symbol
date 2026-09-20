@@ -1,0 +1,194 @@
+@import "tailwindcss";
+
+/*
+  Design token definitions for Heart Symbol.
+  Tailwind v4 CSS-first configuration: all tokens live here.
+*/
+
+@theme {
+  /* Colors */
+  --color-warm-bg: #FAF9F7;
+  --color-surface: #FFFFFF;
+  --color-divider: #E8E4DF;
+  --color-ink: #1C1917;
+  --color-ink-soft: #6B6560; /* darkened from #78716C for WCAG AA 4.5:1 compliance */
+  --color-ink-faint: #A8A29E;
+  --color-accent: #C4956A;
+  --color-accent-soft: #F5EDE3;
+  --color-danger: #DC2626;
+  --color-ok: #16A34A;
+
+  /* Typography — system font stacks with CJK support */
+  --font-sans: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-serif: ui-serif, Georgia, "Songti SC", STSong, serif;
+
+  /* Transitions */
+  --ease-base: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Base styles */
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  /* Respect reduced motion globally */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+
+  html {
+    height: 100%;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    min-height: 100%;
+    background-color: #FAF9F7;
+    color: #1C1917;
+    font-family: var(--font-sans);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+  }
+
+  /*
+    Focus ring — 3 px warm dark ring + 2 px offset gap.
+    #6B6560 on #FAF9F7 = 4.95:1, on #FFFFFF = 5.22:1 — satisfies SC 1.4.11 and SC 1.4.3.
+  */
+  :focus-visible {
+    outline: 2px solid #6B6560;
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+}
+
+/* Utility for card flip animation */
+@layer utilities {
+  .card-flip {
+    perspective: 1000px;
+  }
+
+  .card-flip-inner {
+    transform-style: preserve-3d;
+    transition: transform 600ms ease;
+  }
+
+  .card-flip-inner.flipped {
+    transform: rotateY(180deg);
+  }
+
+  .card-front,
+  .card-back {
+    backface-visibility: hidden;
+  }
+
+  .card-back {
+    transform: rotateY(180deg);
+  }
+
+  /* --- AI personalization effects ------------------------------------- */
+
+  /* Staggered reveal for AI sections. */
+  @keyframes ai-fade-in-up {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animate-ai-reveal {
+    animation: ai-fade-in-up 500ms var(--ease-base) both;
+  }
+
+  /* Shimmer sweep for loading skeletons and the "generating" banner. */
+  @keyframes ai-shimmer {
+    0% {
+      background-position: -200% 0;
+    }
+    100% {
+      background-position: 200% 0;
+    }
+  }
+
+  .ai-shimmer {
+    background-image: linear-gradient(
+      100deg,
+      var(--color-accent-soft) 20%,
+      #fff 40%,
+      var(--color-accent-soft) 60%
+    );
+    background-size: 200% 100%;
+    animation: ai-shimmer 1.6s linear infinite;
+  }
+
+  /* Soft breathing glow around the personalized reading card. */
+  @keyframes ai-glow {
+    0%,
+    100% {
+      box-shadow: 0 0 0 1px rgba(196, 149, 106, 0.35),
+        0 0 18px 0 rgba(196, 149, 106, 0.18);
+    }
+    50% {
+      box-shadow: 0 0 0 1px rgba(196, 149, 106, 0.55),
+        0 0 30px 4px rgba(196, 149, 106, 0.32);
+    }
+  }
+
+  .ai-glow {
+    animation: ai-glow 3.2s ease-in-out infinite;
+  }
+
+  /* Blinking caret shown while a block is being "typed". */
+  @keyframes ai-caret {
+    0%,
+    100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+  }
+
+  .ai-caret::after {
+    content: '';
+    display: inline-block;
+    width: 2px;
+    height: 1.05em;
+    margin-left: 2px;
+    vertical-align: text-bottom;
+    background-color: var(--color-accent);
+    animation: ai-caret 900ms step-end infinite;
+  }
+
+  /* Twinkling sparkle accent. */
+  @keyframes ai-sparkle {
+    0%,
+    100% {
+      opacity: 0.5;
+      transform: scale(0.9);
+    }
+    50% {
+      opacity: 1;
+      transform: scale(1.15);
+    }
+  }
+
+  .ai-sparkle {
+    display: inline-block;
+    animation: ai-sparkle 1.8s ease-in-out infinite;
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "anxious": {
+    "love": {
+      "en": "Anxiety in love often means you care deeply. But care and fear can become hard to separate. What you are feeling right now is real — and it is worth looking at without immediately trying to fix it.",
+      "zh": "在爱中的焦虑，往往意味着你深深在乎。但关心与恐惧有时难以区分。此刻的感受是真实的——值得静下来看清，而不是立刻试图解决它。"
+    },
+    "career": {
+      "en": "When we are anxious about work, we often feel like we are the problem. That framing makes it hard to see clearly. Your anxiety is a signal — not a verdict.",
+      "zh": "对事业感到焦虑，常常让人觉得问题出在自己身上。这种视角反而让人难以看清真相。焦虑是一个信号，而不是一个判决。"
+    },
+    "money": {
+      "en": "Money anxiety is exhausting because it feels endless. But financial worry and actual financial danger are not the same thing. What you know for certain, and what you are imagining, may be different.",
+      "zh": "金钱的焦虑让人疲惫，因为它似乎没有尽头。但对财务的担心与真实的困境并不总是相同的。你所确知的，与你想象中的，可能是两回事。"
+    },
+    "family": {
+      "en": "Anxiety in family situations often comes from feeling responsible for things outside your control. You cannot hold everyone together through sheer worry.",
+      "zh": "在家庭关系中感到焦虑，往往是因为觉得自己要为无法掌控的事情负责。靠单纯的担忧，是撑不起一个家的。"
+    },
+    "self": {
+      "en": "Anxiety about yourself often means you have standards you believe you are not meeting. That gap between where you are and where you think you should be — that is what is causing the pain.",
+      "zh": "对自我的焦虑，往往来自你所设定的标准——你觉得自己没有达到。那个你所在之处与你认为应该在之处之间的距离，正是让你痛苦的地方。"
+    },
+    "health": {
+      "en": "Health anxiety can make every sensation feel like a warning. Your worry is trying to protect you — but constant alarm is exhausting, and it is not the same as being in danger. What you know for certain and what you are imagining may be different.",
+      "zh": "对健康的焦虑会让每一个身体感觉都像一个警报。你的担忧是在试图保护你——但持续的警觉令人精疲力竭，它与真正的危险并不是一回事。你所确知的，与你想象中的，可能是两回事。"
+    }
+  },
+  "confused": {
+    "love": {
+      "en": "Confusion in love often means you have more than one true feeling. You do not have to collapse everything into a single answer. You can hold both what is good and what is uncertain.",
+      "zh": "对爱情感到困惑，往往意味着你内心有不止一种真实的感受。不必将一切归结为一个答案。你可以同时承载其中的美好，与其中的不确定。"
+    },
+    "career": {
+      "en": "When work feels unclear, it can be tempting to force a decision. But not all career confusion is a problem — some of it is you gathering information before you are ready to act.",
+      "zh": "当工作方向感到模糊，很容易想要强行做出选择。但并非所有职业上的困惑都是问题——有时这只是在你准备好行动之前，你正在收集信息。"
+    },
+    "money": {
+      "en": "Financial confusion often means the picture is genuinely incomplete. Avoidance makes it worse. One honest look at the actual numbers tends to simplify things.",
+      "zh": "对财务感到困惑，往往意味着画面确实是不完整的。回避只会让它更复杂。诚实地看一眼实际数字，往往能让事情变得清晰一些。"
+    },
+    "family": {
+      "en": "Family confusion is often a sign that the rules have changed — that something that used to be clear no longer is. That is not a personal failure. Families shift.",
+      "zh": "家庭关系中的困惑，往往是规则变化了的信号——曾经清晰的事情不再清晰了。这不是你个人的失败。家庭本就会改变。"
+    },
+    "self": {
+      "en": "Being confused about yourself is not the same as being lost. You may be between one version of yourself and the next. That in-between space feels disorienting.",
+      "zh": "对自己感到困惑，并不等于迷失了方向。也许你正处于某个版本的自己与下一个版本之间。这个过渡的空间，确实让人感到不知所措。"
+    },
+    "health": {
+      "en": "Confusion about your health often means the signals your body is sending are mixed, or the information you have is incomplete. Avoidance makes it worse. One honest look — or one honest question to someone who knows — tends to simplify things.",
+      "zh": "对健康感到困惑，往往意味着身体发出的信号是混杂的，或者你掌握的信息还不完整。回避只会让它更糟。诚实地看一眼——或向懂的人诚实地问一个问题——往往能让事情变得清晰一些。"
+    }
+  },
+  "sad": {
+    "love": {
+      "en": "Sadness in love is not a mistake. It often means something genuinely mattered to you. That matters. Letting yourself feel this is not weakness — it is honest.",
+      "zh": "在爱中感到悲伤，不是一种错误。它往往意味着某件事对你真的很重要。这本身就很重要。允许自己感受这份悲伤，不是软弱——而是诚实。"
+    },
+    "career": {
+      "en": "Sadness about your work can mean you have given something meaningful to it and felt that go unrecognized — or that something you cared about has ended. That is a real loss.",
+      "zh": "对工作感到悲伤，可能意味着你曾将某些有意义的事情投入其中，却感到没有被认可——或者你所在乎的某些东西已经结束了。那是一种真实的失去。"
+    },
+    "money": {
+      "en": "Financial sadness often carries shame underneath it. The sadness is about the situation. The shame is a story you may have been told about what it means — and that story may not be true.",
+      "zh": "对财务感到悲伤，往往在悲伤之下藏着羞愧。悲伤是关于处境的。羞愧则是关于它意味着什么的一种叙事——而那种叙事未必是真的。"
+    },
+    "family": {
+      "en": "Sadness in family relationships often comes from loving people who cannot always meet you where you are. That love is real, even when the gap feels wide.",
+      "zh": "在家庭关系中感到悲伤，往往来自爱着那些无法总是理解你的人。那份爱是真实的，即使隔阂有时感觉很大。"
+    },
+    "self": {
+      "en": "Sadness about yourself often carries grief — for a version of yourself you expected to be by now, or for something you lost along the way. Grief is not a problem to solve. It is something to move through.",
+      "zh": "对自己感到悲伤，往往带着一种哀悼——哀悼那个你以为自己此时应该成为的样子，或者哀悼途中失去的某些东西。悲伤不是一个需要解决的问题，而是需要穿越的一段路程。"
+    },
+    "health": {
+      "en": "Sadness about your health often carries grief — for the energy or ease you used to have, or for a body that is not doing what you want it to. That is a real loss. Letting yourself feel it is not weakness; it is honest.",
+      "zh": "对健康感到悲伤，往往带着一种哀悼——哀悼你曾经拥有的精力或轻松，或哀悼一个不再听从你意愿的身体。那是一种真实的失去。允许自己感受它，不是软弱——而是诚实。"
+    }
+  },
+  "hopeful": {
+    "love": {
+      "en": "Hope in love is a fragile, tender thing — and that is exactly why it is worth paying attention to. Something in you still believes something here is worth reaching toward.",
+      "zh": "在爱情中的希望是脆弱而温柔的——正因如此，它值得认真对待。你内心深处仍然相信，这里有些东西值得去追寻。"
+    },
+    "career": {
+      "en": "Hope about work is not naivety. It is your sense that something better is possible. That sense is information — but it is also something you need to keep protecting.",
+      "zh": "对事业抱有希望，并不是天真。那是你相信更好的事情是可能的一种感觉。这种感觉本身是有价值的信息——但也需要你去守护它。"
+    },
+    "money": {
+      "en": "A sense of hope about money often means you are beginning to see a path — or you are choosing to look for one. Notice what that path requires of you.",
+      "zh": "对财务感到充满希望，往往意味着你开始看到一条出路——或者你选择去寻找它。留意这条路需要你付出什么。"
+    },
+    "family": {
+      "en": "Hope for a family relationship means you have not yet closed the door. That openness is something. It is also a place to look clearly — not just hopefully.",
+      "zh": "对家庭关系抱有希望，意味着你还没有关上那扇门。这种开放本身就是一种可能。同时，这也是一个需要清醒看待而不仅仅是充满期待的地方。"
+    },
+    "self": {
+      "en": "Hope about yourself means you still believe change is possible. Hold that belief with care — not as pressure, but as an honest signal that something in you is still reaching forward.",
+      "zh": "对自己抱有希望，意味着你仍然相信改变是可能的。请好好珍惜这份信念——不是作为压力，而是作为一个诚实的信号：你内心深处仍在向前伸展。"
+    },
+    "health": {
+      "en": "Hope about your health is a form of care. It means part of you still believes that healing, steadiness, or improvement is possible. Hold that belief gently — and notice what it asks of you day to day.",
+      "zh": "对健康抱有希望，本身就是一种关爱。它意味着你内心的一部分仍然相信，痊愈、稳定或好转是可能的。请温柔地守护这份信念——并留意它每天对你的要求是什么。"
+    }
+  },
+  "stuck": {
+    "love": {
+      "en": "Feeling stuck in love often means you can see the problem clearly but cannot yet see how to move. That clarity is not nothing. It is the first condition for movement.",
+      "zh": "在爱情中感到卡住，往往意味着你能清楚地看到问题所在，却还看不到如何前行。这份清醒不是没有意义的——它是迈动脚步的第一个条件。"
+    },
+    "career": {
+      "en": "Feeling stuck at work can mean you are between where you were and where you want to go. That space is real — and it is not permanent. But it does require something of you.",
+      "zh": "在事业上感到卡住，可能意味着你正处于你所在之处与你想去之处的中间地带。这个空间是真实的——但它并不是永久的。只是它确实需要你做些什么。"
+    },
+    "money": {
+      "en": "Feeling stuck financially often means one decision or one number is blocking the whole view. Sometimes the stuck feeling lifts when you look at just the next one thing.",
+      "zh": "在财务上感到卡住，往往意味着某一个决定或某一个数字阻挡了整个视野。有时，当你只去看下一件最小的事情时，那种卡住的感觉就会松动。"
+    },
+    "family": {
+      "en": "Feeling stuck in family dynamics is common — family systems are designed to maintain their shape. But things do shift, even slowly, especially when one person is willing to change.",
+      "zh": "在家庭关系中感到卡住是很常见的——家庭系统天生就有维持原状的倾向。但事情确实会改变，哪怕慢慢地——尤其是当其中一个人愿意做出改变的时候。"
+    },
+    "self": {
+      "en": "Feeling stuck as a person often means you are at the edge of something — not at a wall, but at a threshold. The question is not whether movement is possible, but what small movement is available to you right now.",
+      "zh": "在自我成长上感到卡住，往往意味着你站在某个边缘——不是一堵墙，而是一道门槛。问题不是前进是否可能，而是此刻对你来说，有哪怕是微小的一步是可以迈出的。"
+    },
+    "health": {
+      "en": "Feeling stuck with your health often means you know something needs to change, but the path feels heavy or unclear. You do not have to change everything at once. The question is what one small, available step you can take right now.",
+      "zh": "在健康上感到卡住，往往意味着你知道有些东西需要改变，但那条路感觉沉重或不清晰。你不必一次改变全部。问题是，此刻对你来说，有哪怕是微小的一步是可以迈出的。"
+    }
+  }
+}
